@@ -19,17 +19,19 @@
 （由于 DNS 泄露极大可能是伪命题，因此不再对 DNS 泄露进行优化）
 
 ### 配置链接
-| 类型 | 配置文件链接 |
-|------|---------------|
-| 出国规则 | [Across_GFW.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Across_GFW.conf) |
-| 回国规则 | [Back_CN.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Back_CN.conf) |
+| 类型 | 复制链接 | 一键安装 |
+|------|----------|----------|
+| 出国规则 | https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Across_GFW.conf | [一键安装](shadowrocket://install?url=https%3A%2F%2Fraw.githubusercontent.com%2Fuxudjs%2FShadowrocket%2Frefs%2Fheads%2Fmain%2FAcross_GFW.conf) |
+| 回国规则 | https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Back_CN.conf | [一键安装](shadowrocket://install?url=https%3A%2F%2Fraw.githubusercontent.com%2Fuxudjs%2FShadowrocket%2Frefs%2Fheads%2Fmain%2FBack_CN.conf) |
+| 苹果系统服务直连 | https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_system_sr.sgmodule | [一键安装](shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fuxudjs%2FShadowrocket%2Frefs%2Fheads%2Fmain%2Fmodules%2Fapple_system_sr.sgmodule) |
 
 ### 使用方式
-配置 → 右上角“+” → 填入链接并下载
+配置 → 右上角“+” → 填入链接并下载  
+或在 iOS Safari 中直接点击表格中的「一键安装」链接进行自动导入。
 
 ### 来源项目
-- 广告屏蔽来自项目：[https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)  
-- 中国直连来自项目：[https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
+- 广告屏蔽来自项目：https://github.com/uxudjs/FuckAD  
+- 中国直连来自项目：https://github.com/uxudjs/ChinaRule
 
 ---
 
@@ -43,17 +45,19 @@
 （由於 DNS 洩漏極有可能為偽命題，因此不再對 DNS 洩漏進行優化）
 
 ### 配置連結
-| 類型 | 配置檔連結 |
-|------|--------------|
-| 出國規則 | [Across_GFW.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Across_GFW.conf) |
-| 回國規則 | [Back_CN.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Back_CN.conf) |
+| 類型 | 複製連結 | 一鍵安裝 |
+|------|----------|----------|
+| 出國規則 | https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Across_GFW.conf | [一鍵安裝](shadowrocket://install?url=https%3A%2F%2Fraw.githubusercontent.com%2Fuxudjs%2FShadowrocket%2Frefs%2Fheads%2Fmain%2FAcross_GFW.conf) |
+| 回國規則 | https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Back_CN.conf | [一鍵安裝](shadowrocket://install?url=https%3A%2F%2Fraw.githubusercontent.com%2Fuxudjs%2FShadowrocket%2Frefs%2Fheads%2Fmain%2FBack_CN.conf) |
+| 蘋果系統服務直連 | https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_system_sr.sgmodule | [一鍵安裝](shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fuxudjs%2FShadowrocket%2Frefs%2Fheads%2Fmain%2Fmodules%2Fapple_system_sr.sgmodule) |
 
 ### 使用方式
-設定 → 右上角「+」→ 填入連結並下載
+設定 → 右上角「+」→ 填入連結並下載  
+或在 iOS Safari 中直接點擊表格中的「一鍵安裝」連結自動匯入。
 
 ### 來源專案
-- 廣告屏蔽來自專案：[https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)  
-- 中國直連來自專案：[https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
+- 廣告屏蔽來自專案：https://github.com/uxudjs/FuckAD  
+- 中國直連來自專案：https://github.com/uxudjs/ChinaRule
 
 ---
 
@@ -67,17 +71,19 @@ The latest version includes more direct connections to mainland China websites
 (Since DNS leaks are highly likely a pseudo-issue, no further optimization for DNS leaks is performed)
 
 ### Configuration Links
-| Type | Configuration File |
-|------|---------------------|
-| Overseas Rules | [Across_GFW.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Across_GFW.conf) |
-| Return-to-China Rules | [Back_CN.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Back_CN.conf) |
+| Type | Copy Link | One-tap Install |
+|------|-----------|-----------------|
+| Overseas Rules | https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Across_GFW.conf | [One-tap Install](shadowrocket://install?url=https%3A%2F%2Fraw.githubusercontent.com%2Fuxudjs%2FShadowrocket%2Frefs%2Fheads%2Fmain%2FAcross_GFW.conf) |
+| Return-to-China Rules | https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Back_CN.conf | [One-tap Install](shadowrocket://install?url=https%3A%2F%2Fraw.githubusercontent.com%2Fuxudjs%2FShadowrocket%2Frefs%2Fheads%2Fmain%2FBack_CN.conf) |
+| Apple System Services Direct | https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_system_sr.sgmodule | [One-tap Install](shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fuxudjs%2FShadowrocket%2Frefs%2Fheads%2Fmain%2Fmodules%2Fapple_system_sr.sgmodule) |
 
 ### How to Use
-Go to Settings → Tap “+” (top right) → Enter link → Download
+Go to Settings → Tap “+” (top right) → Enter link → Download  
+Or tap the “One-tap Install” links in iOS Safari to auto-import.
 
 ### Sources
-- Ad-blocking from: [https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)  
-- China Direct routes from: [https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
+- Ad-blocking from: https://github.com/uxudjs/FuckAD  
+- China Direct routes from: https://github.com/uxudjs/ChinaRule
 
 ---
 
@@ -91,17 +97,19 @@ Go to Settings → Tap “+” (top right) → Enter link → Download
 （DNSリークはほぼ偽命題とみなされるため、これに関する最適化は行っていません）
 
 ### 設定リンク
-| 種類 | 設定ファイル |
-|------|---------------|
-| 海外アクセスルール | [Across_GFW.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Across_GFW.conf) |
-| 中国帰国ルール | [Back_CN.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Back_CN.conf) |
+| 種類 | リンクをコピー | ワンタップ追加 |
+|------|----------------|----------------|
+| 海外アクセスルール | https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Across_GFW.conf | [ワンタップ追加](shadowrocket://install?url=https%3A%2F%2Fraw.githubusercontent.com%2Fuxudjs%2FShadowrocket%2Frefs%2Fheads%2Fmain%2FAcross_GFW.conf) |
+| 中国帰国ルール | https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Back_CN.conf | [ワンタップ追加](shadowrocket://install?url=https%3A%2F%2Fraw.githubusercontent.com%2Fuxudjs%2FShadowrocket%2Frefs%2Fheads%2Fmain%2FBack_CN.conf) |
+| Apple システムサービス直通 | https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_system_sr.sgmodule | [ワンタップ追加](shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fuxudjs%2FShadowrocket%2Frefs%2Fheads%2Fmain%2Fmodules%2Fapple_system_sr.sgmodule) |
 
 ### 使用方法
-設定 → 右上の「+」→ リンクを入力 → ダウンロード
+設定 → 右上の「+」→ リンクを入力 → ダウンロード  
+または iOS Safari で上記「ワンタップ追加」リンクをタップして自動インポートします。
 
 ### 出典プロジェクト
-- 広告ブロック: [https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)  
-- 中国直通ルール: [https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
+- 広告ブロック: https://github.com/uxudjs/FuckAD  
+- 中国直通ルール: https://github.com/uxudjs/ChinaRule
 
 ---
 
@@ -115,17 +123,15 @@ Go to Settings → Tap “+” (top right) → Enter link → Download
 (DNS 누출은 거의 허구적 문제로 간주되므로, 더 이상 최적화를 수행하지 않습니다)
 
 ### 설정 링크
-| 유형 | 설정 파일 |
-|------|-------------|
-| 해외 접속 규칙 | [Across_GFW.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Across_GFW.conf) |
-| 중국 복귀 규칙 | [Back_CN.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Back_CN.conf) |
+| 유형 | 링크 복사 | 원탭 설치 |
+|------|-----------|-----------|
+| 해외 접속 규칙 | https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Across_GFW.conf | [원탭 설치](shadowrocket://install?url=https%3A%2F%2Fraw.githubusercontent.com%2Fuxudjs%2FShadowrocket%2Frefs%2Fheads%2Fmain%2FAcross_GFW.conf) |
+| 중국 복귀 규칙 | https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Back_CN.conf | [원탭 설치](shadowrocket://install?url=https%3A%2F%2Fraw.githubusercontent.com%2Fuxudjs%2FShadowrocket%2Frefs%2Fheads%2Fmain%2FBack_CN.conf) |
+| 애플 시스템 서비스 직결 | https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_system_sr.sgmodule | [원탭 설치](shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fuxudjs%2FShadowrocket%2Frefs%2Fheads%2Fmain%2Fmodules%2Fapple_system_sr.sgmodule) |
 
 ### 사용 방법
-설정 → 오른쪽 상단 “+” 클릭 → 링크 입력 → 다운로드
-
-### 출처 프로젝트
-- 광고 차단: [https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)  
-- 중국 직결: [https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
+설정 → 오른쪽 상단 “+” 클릭 → 링크 입력 → 다운로드  
+또는 iOS Safari 에서 위 “원탭 설치” 링크를 탭하여 자동으로 불러올 수 있습니다.
 
 ---
 
