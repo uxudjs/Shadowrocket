@@ -28,7 +28,7 @@
 ### 使用方式
 配置 → 右上角“+” → 填入链接并下载
 
-### 来源项目
+### 引用项目
 - 广告屏蔽来自项目：[https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)  
 - 中国直连来自项目：[https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
 
@@ -53,7 +53,7 @@
 ### 使用方式
 設定 → 右上角「+」→ 填入連結並下載
 
-### 來源專案
+### 引用專案
 - 廣告屏蔽來自專案：[https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)  
 - 中國直連來自專案：[https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
 
@@ -78,7 +78,7 @@ The latest version includes more direct connections to mainland China websites
 ### How to Use
 Go to Settings → Tap “+” (top right) → Enter link → Download
 
-### Sources
+### Reference Item
 - Ad-blocking from: [https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)  
 - China Direct routes from: [https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
 
@@ -103,7 +103,7 @@ Go to Settings → Tap “+” (top right) → Enter link → Download
 ### 使用方法
 設定 → 右上の「+」→ リンクを入力 → ダウンロード
 
-### 出典プロジェクト
+### 引用項目
 - 広告ブロック: [https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)  
 - 中国直通ルール: [https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
 
@@ -128,7 +128,7 @@ Go to Settings → Tap “+” (top right) → Enter link → Download
 ### 사용 방법
 설정 → 오른쪽 상단 “+” 클릭 → 링크 입력 → 다운로드
 
-### 출처 프로젝트
+### 인용 항목
 - 광고 차단: [https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)  
 - 중국 직결: [https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
 
