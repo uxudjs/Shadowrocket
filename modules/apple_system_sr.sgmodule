@@ -1,4 +1,4 @@
-#!name=Apple System
+#!name=AppleSystem
 
 [Rule]
 AND,((PROTOCOL,UDP),(DST-PORT,443)),REJECT-NO-DROP
