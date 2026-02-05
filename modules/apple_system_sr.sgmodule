@@ -1,47 +1,65 @@
-#!name=苹果系统服务优化
-#!desc=Apple系统服务直连
+#!name=Apple System
+
 
 [Rule]
 AND,((PROTOCOL,UDP),(DST-PORT,443)),REJECT-NO-DROP
 
-# > 隐私拦截（需在设置中取消Safari隐私检测）
+# > SafariPrivacy
 DOMAIN,safebrowsing.urlsec.qq.com,REJECT
 DOMAIN,safebrowsing.googleapis.com,REJECT
 DOMAIN,e.crashlytics.com,REJECT
 
-# > Apple系统服务
-DOMAIN-SUFFIX,cp4.cloudflare.com,DIRECT
-DOMAIN-SUFFIX,digicert.com,DIRECT
-DOMAIN-SUFFIX,mzstatic.com,DIRECT
-DOMAIN-SUFFIX,me.com,DIRECT
-DOMAIN-SUFFIX,aaplimg.com,DIRECT
-DOMAIN-SUFFIX,cdn20.com,DIRECT
+# > AppleIntelligence
+DOMAIN-SUFFIX,gateway.icloud.com,PROXY
+DOMAIN-SUFFIX,apple-relay.apple.com,PROXY
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com,PROXY
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,PROXY
+DOMAIN-SUFFIX,guzzoni.apple.com,PROXY
+DOMAIN-SUFFIX,cp4.cloudflare.com,PROXY
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,PROXY
+DOMAIN-SUFFIX,smoot.apple.com,PROXY
+DOMAIN-SUFFIX,apple-relay.akamaized.net,PROXY
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net,PROXY
+
+# > AppleDomain
 DOMAIN-SUFFIX,akadns.net,DIRECT
 DOMAIN-SUFFIX,akamaiedge.net,DIRECT
+DOMAIN-SUFFIX,cdn20.com,DIRECT
+DOMAIN-SUFFIX,digicert.com,DIRECT
 DOMAIN-SUFFIX,edgekey.net,DIRECT
-DOMAIN-SUFFIX,mwcloudcdn.com,DIRECT
+DOMAIN-SUFFIX,edgesuite.net,DIRECT
+DOMAIN-SUFFIX,me.com,DIRECT
 DOMAIN-SUFFIX,mwcname.com,DIRECT
+DOMAIN-SUFFIX,mwcloudcdn.com,DIRECT
+DOMAIN-SUFFIX,mzstatic.com,DIRECT
+DOMAIN-SUFFIX,omtrdc.net,DIRECT
+
+# > AppleKeyword
+DOMAIN-KEYWORD,aaplimg,DIRECT
 DOMAIN-KEYWORD,apple,DIRECT
 DOMAIN-KEYWORD,icloud,DIRECT
+DOMAIN-KEYWORD,itunes,DIRECT
 DOMAIN-KEYWORD,smp-device,DIRECT
 DOMAIN-KEYWORD,testflight,DIRECT
-USER-AGENT,*WeatherFoundation*,DIRECT
+
+# > AppleUserAgent
+USER-AGENT,AppleTV*,DIRECT
+USER-AGENT,FindMyFriends*,DIRECT
 USER-AGENT,FindMyiPhone*,DIRECT
-USER-AGENT,Music*,DIRECT
-USER-AGENT,Maps*,DIRECT
 USER-AGENT,FMDClient*,DIRECT
 USER-AGENT,FMFD*,DIRECT
-USER-AGENT,FindMyFriends*,DIRECT
+USER-AGENT,Maps*,DIRECT
+USER-AGENT,Music*,DIRECT
 USER-AGENT,Wallet*,DIRECT
+USER-AGENT,WeatherFoundation*,DIRECT
+USER-AGENT,cloudd*,DIRECT
 USER-AGENT,fmflocatord*,DIRECT
 USER-AGENT,geod*,DIRECT
 USER-AGENT,locationd*,DIRECT
 USER-AGENT,passd*,DIRECT
-USER-AGENT,AppleTV*,DIRECT
-USER-AGENT,cloudd*,DIRECT
 AND,((NOT,((USER-AGENT,*com.apple.WebKit*))),(USER-AGENT,*com.apple.*),(NOT,((USER-AGENT,*AssistantServices*)))),DIRECT
 
-# > IP规则
+# > AppleIP
 IP-CIDR,17.0.0.0/8,DIRECT,no-resolve
 IP-CIDR,63.92.224.0/19,DIRECT,no-resolve
 IP-CIDR,65.199.22.0/23,DIRECT,no-resolve
