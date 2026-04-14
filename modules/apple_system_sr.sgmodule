@@ -3,6 +3,15 @@
 [Rule]
 AND,((PROTOCOL,UDP),(DST-PORT,443)),REJECT-NO-DROP
 
+# > AppleBlock
+DOMAIN,iadsdk.apple.com,REJECT
+DOMAIN,metrics.icloud.com,REJECT
+DOMAIN,metrics.mzstatic.com,REJECT
+DOMAIN,api-adservices.apple.com,REJECT
+DOMAIN,books-analytics-events.apple.com,REJECT
+DOMAIN,weather-analytics-events.apple.com,REJECT
+DOMAIN,notes-analytics-events.apple.com,REJECT
+
 # > SafariPrivacy
 DOMAIN,safebrowsing.urlsec.qq.com,REJECT
 DOMAIN,safebrowsing.googleapis.com,REJECT
