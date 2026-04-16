@@ -17,6 +17,18 @@ DOMAIN,safebrowsing.urlsec.qq.com,REJECT
 DOMAIN,safebrowsing.googleapis.com,REJECT
 DOMAIN,e.crashlytics.com,REJECT
 
+# > AppleIntelligence
+DOMAIN-SUFFIX,gateway.icloud.com,AI
+DOMAIN-SUFFIX,apple-relay.apple.com,AI
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com,AI
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,AI
+DOMAIN-SUFFIX,guzzoni.apple.com,AI
+DOMAIN-SUFFIX,cp4.cloudflare.com,AI
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,AI
+DOMAIN-SUFFIX,smoot.apple.com,AI
+DOMAIN-SUFFIX,apple-relay.akamaized.net,AI
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net,AI
+
 # > AppleSystem
 DOMAIN,apps.apple.com,DIRECT
 DOMAIN,a1.mzstatic.com,DIRECT
