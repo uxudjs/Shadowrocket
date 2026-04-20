@@ -186,6 +186,7 @@ DOMAIN,ocsp-lb.apple.com.akadns.net,DIRECT
 DOMAIN,ocsp.apple.com,DIRECT
 DOMAIN,ocsp2-lb.apple.com.akadns.net,DIRECT
 DOMAIN,ocsp2.apple.com,DIRECT
+DOMAIN,oidc.iam.cfapi.net,DIRECT
 DOMAIN,oscdn.apple.com,DIRECT
 DOMAIN,oscdn.origin-apple.com.akadns.net,DIRECT
 DOMAIN,osxapps.itunes.apple.com,DIRECT
