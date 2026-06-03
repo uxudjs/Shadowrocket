@@ -1,8 +1,6 @@
 #!name=AppleSystem
 
 [Rule]
-AND,((PROTOCOL,UDP),(DST-PORT,443)),REJECT-NO-DROP
-
 # > AppleBlock
 DOMAIN,iadsdk.apple.com,REJECT
 DOMAIN,metrics.icloud.com,REJECT
