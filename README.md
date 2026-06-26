@@ -1,6 +1,6 @@
 # Shadowrocket
 
-### 🌐 选择语言 | 選擇語言 | Choose Language | 言語選択 | 언어 선택
+### 🌐 选择语言 | 選擇語言 | Choose Language
 - [🇨🇳 简体中文](#zh-cn)
 - [🇹🇼 繁體中文](#zh-tw)
 - [🇺🇸 English](#en)
