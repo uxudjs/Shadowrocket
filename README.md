@@ -25,14 +25,14 @@
 ### 规则订阅
 | 规则名称 | 规则数量 | 说明 | 订阅链接 |
 |:--------:|:--------:|------|:--------:|
-| **FuckAD** | FuckAd合并规则总数：**0** | 去广告规则集（多源聚合、自动去重） | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
+| **FuckAD** | FuckAd合并规则总数：**190667** | 去广告规则集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
 | **ChinaMax** | ChinaMax合并规则总数：**45843** | 中国大陆直连规则集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
 | **GlobalProxy** | GlobalProxy合并规则总数：**33944** | 全球代理规则集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
 
 ### 模块下载
 | 模块名称 | 说明 | 下载链接 |
 |:--------:|------|:--------:|
-| **FuckAD** | 去广告模块 | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_ad_sr.sgmodule) |
+| **FuckAD** | 去广告模块（净化 墨迹天气 / 中国联通 / 淘票票 / 微信 / 大师兄影视 / 夸克 / 12306 / 闲鱼 / 高德地图 等） | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_ad_sr.sgmodule) |
 | **FuckVIP** | VIP 解锁模块（解锁 Endel / AdGuard / 掌描全能王 / 有道词典 / 百度云 / 地震预警ICL / Spotify / BiliBiliHD 等） | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_vip_sr.sgmodule) |
 | **Apple Block** | 系统追踪 | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
 
@@ -65,14 +65,14 @@
 ### 規則訂閱
 | 規則名稱 | 規則數量 | 說明 | 訂閱連結 |
 |:--------:|:--------:|------|:--------:|
-| **FuckAD** | FuckAd合併規則總數：**0** | 去廣告規則集（多源聚合、自動去重） | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
+| **FuckAD** | FuckAd合併規則總數：**190667** | 去廣告規則集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
 | **ChinaMax** | ChinaMax合併規則總數：**45843** | 中國大陸直連規則集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
 | **GlobalProxy** | GlobalProxy合併規則總數：**33944** | 全球代理規則集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
 
 ### 模組下載
 | 模組名稱 | 說明 | 下載連結 |
 |:--------:|------|:--------:|
-| **FuckAD** | 去廣告模組 | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_ad_sr.sgmodule) |
+| **FuckAD** | 去廣告模組（淨化 墨跡天氣 / 中國聯通 / 淘票票 / 微信 / 大師兄影視 / 夸克 / 12306 / 閒魚 / 高德地圖 等） | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_ad_sr.sgmodule) |
 | **FuckVIP** | VIP 解鎖模組（解鎖 Endel / AdGuard / 掃描全能王 / 有道詞典 / 百度雲 / 地震預警ICL / Spotify / BiliBiliHD 等） | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_vip_sr.sgmodule) |
 | **Apple Block** | 系統追蹤 | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
 
@@ -105,14 +105,14 @@ This is a collection of configuration files for the proxy app **Shadowrocket**, 
 ### Rule Subscriptions
 | Rule Name | Rule Count | Description | Subscription Link |
 |:---------:|:----------:|-------------|:-----------------:|
-| **FuckAD** | FuckAd merged rule count: **0** | Ad-blocking rule set (multi-source, auto-dedup) | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
+| **FuckAD** | FuckAd merged rule count: **190667** | Ad-blocking rule set | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
 | **ChinaMax** | ChinaMax merged rule count: **45843** | China mainland direct-connect rule set | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
 | **GlobalProxy** | GlobalProxy merged rule count: **33944** | Global proxy rule set | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
 
 ### Module Downloads
 | Module Name | Description | Download Link |
 |:-----------:|-------------|:-------------:|
-| **FuckAD** | Ad-blocking module | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_ad_sr.sgmodule) |
+| **FuckAD** | Ad-blocking module (Purify Moji Weather / China Unicom / Taopiaopiao / WeChat / Dashixiong Video / Quark / 12306 / Xianyu / Amap, etc.) | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_ad_sr.sgmodule) |
 | **FuckVIP** | VIP unlock module (unlocks Endel / AdGuard / Scanner Pro / Youdao Dict / Baidu Cloud / EQAlert ICL / Spotify / BiliBiliHD, etc.) | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_vip_sr.sgmodule) |
 | **Apple Block** | System Tracking | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
 
