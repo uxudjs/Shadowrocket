@@ -24,7 +24,7 @@ jobs:
 
     - name: Run china_max_rule.py
       run: |
-        python china_max_rule.py
+        python actions/china_max_rule.py
 
     - name: Commit and push changes
       env:
