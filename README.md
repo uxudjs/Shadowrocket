@@ -23,18 +23,18 @@
 | 苹果系统服务直连 | 已并入 list，无需额外添加 |
 
 ### 规则订阅
-| 规则名称 | 说明 | 订阅链接 |
-|:--------:|------|:--------:|
-| **FuckAD** | 去广告规则集（多源聚合、自动去重） | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
-| **ChinaMax** | 中国大陆直连规则集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
-| **GlobalProxy** | 全球代理规则集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
+| 规则名称 | 规则数量 | 说明 | 订阅链接 |
+|:--------:|:--------:|------|:--------:|
+| **FuckAD** | FuckAd合并规则总数：**0** | 去广告规则集（多源聚合、自动去重） | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
+| **ChinaMax** | ChinaMax合并规则总数：**0** | 中国大陆直连规则集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
+| **GlobalProxy** | GlobalProxy合并规则总数：**0** | 全球代理规则集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
 
 ### 模块下载
 | 模块名称 | 说明 | 下载链接 |
 |:--------:|------|:--------:|
 | **FuckAD** | 去广告模块 | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_ad_sr.sgmodule) |
 | **FuckVIP** | VIP 解锁模块（解锁 Endel / AdGuard / 掌描全能王 / 有道词典 / 百度云 / 地震预警ICL / Spotify / BiliBiliHD 等） | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_vip_sr.sgmodule) |
-| **Apple Block** | 苹果系统广告屏蔽模块 | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
+| **Apple Block** | 系统追踪 | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
 
 ### 使用方式
 - **配置文件**：配置 → 右上角「+」→ 填入链接并下载
@@ -49,8 +49,6 @@
 - 广告屏蔽：[https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)
 - 中国直连：[https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
 - VIP 解锁：[https://github.com/uxudjs/FuckVIP](https://github.com/uxudjs/FuckVIP)
-
-当前合并规则总数：**0**
 
 ---
 
@@ -70,18 +68,18 @@
 | 蘋果系統服務直連 | 已併入 list，無需額外添加 |
 
 ### 規則訂閱
-| 規則名稱 | 說明 | 訂閱連結 |
-|:--------:|------|:--------:|
-| **FuckAD** | 去廣告規則集（多源聚合、自動去重） | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
-| **ChinaMax** | 中國大陸直連規則集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
-| **GlobalProxy** | 全球代理規則集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
+| 規則名稱 | 規則數量 | 說明 | 訂閱連結 |
+|:--------:|:--------:|------|:--------:|
+| **FuckAD** | FuckAd合併規則總數：**0** | 去廣告規則集（多源聚合、自動去重） | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
+| **ChinaMax** | ChinaMax合併規則總數：**0** | 中國大陸直連規則集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
+| **GlobalProxy** | GlobalProxy合併規則總數：**0** | 全球代理規則集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
 
 ### 模組下載
 | 模組名稱 | 說明 | 下載連結 |
 |:--------:|------|:--------:|
 | **FuckAD** | 去廣告模組 | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_ad_sr.sgmodule) |
 | **FuckVIP** | VIP 解鎖模組（解鎖 Endel / AdGuard / 掃描全能王 / 有道詞典 / 百度雲 / 地震預警ICL / Spotify / BiliBiliHD 等） | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_vip_sr.sgmodule) |
-| **Apple Block** | 蘋果系統廣告屏蔽模組 | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
+| **Apple Block** | 系統追蹤 | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
 
 ### 使用方式
 - **配置檔**：設定 → 右上角「+」→ 填入連結並下載
@@ -96,8 +94,6 @@
 - 廣告屏蔽：[https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)
 - 中國直連：[https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
 - VIP 解鎖：[https://github.com/uxudjs/FuckVIP](https://github.com/uxudjs/FuckVIP)
-
-目前合併規則總數：**0**
 
 ---
 
@@ -117,18 +113,18 @@ This is a collection of configuration files for the proxy app **Shadowrocket**, 
 | Apple System Services Direct | Already merged into list; no need to add separately |
 
 ### Rule Subscriptions
-| Rule Name | Description | Subscription Link |
-|:---------:|-------------|:-----------------:|
-| **FuckAD** | Ad-blocking rule set (multi-source, auto-dedup) | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
-| **ChinaMax** | China mainland direct-connect rule set | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
-| **GlobalProxy** | Global proxy rule set | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
+| Rule Name | Rule Count | Description | Subscription Link |
+|:---------:|:----------:|-------------|:-----------------:|
+| **FuckAD** | FuckAd merged rule count: **0** | Ad-blocking rule set (multi-source, auto-dedup) | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
+| **ChinaMax** | ChinaMax merged rule count: **0** | China mainland direct-connect rule set | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
+| **GlobalProxy** | GlobalProxy merged rule count: **0** | Global proxy rule set | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
 
 ### Module Downloads
 | Module Name | Description | Download Link |
 |:-----------:|-------------|:-------------:|
 | **FuckAD** | Ad-blocking module | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_ad_sr.sgmodule) |
 | **FuckVIP** | VIP unlock module (unlocks Endel / AdGuard / Scanner Pro / Youdao Dict / Baidu Cloud / EQAlert ICL / Spotify / BiliBiliHD, etc.) | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_vip_sr.sgmodule) |
-| **Apple Block** | Apple system ad-blocking module | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
+| **Apple Block** | System Tracking | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
 
 ### How to Use
 - **Config file**: Settings → "+" (top right) → Enter link → Download
@@ -143,8 +139,6 @@ This is a collection of configuration files for the proxy app **Shadowrocket**, 
 - Ad-blocking: [https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)
 - China Direct: [https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
 - VIP Unlock: [https://github.com/uxudjs/FuckVIP](https://github.com/uxudjs/FuckVIP)
-
-Current merged rule count: **0**
 
 ---
 
