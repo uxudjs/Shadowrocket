@@ -5,6 +5,9 @@ on:
     - cron: "0 19 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-globalproxy-rules:
     runs-on: ubuntu-latest
@@ -32,10 +35,11 @@ jobs:
       run: |
         git config --local user.email "53632549+uxudjs@users.noreply.github.com"
         git config --local user.name "uxudjs"
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/uxudjs/Shadowrocket.git
         git add lists/global_proxy_sr.list README.md
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
           git commit -m "Auto update GlobalProxy rules"
-          git push origin HEAD:main --force
+          git push origin HEAD:main
         fi
