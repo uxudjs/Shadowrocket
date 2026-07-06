@@ -41,6 +41,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Auto update FuckAD rules"
-            git pull --rebase origin main
+            git pull --no-rebase origin main
             git push origin HEAD:main
           fi
