@@ -35,10 +35,10 @@ RULE_URLS = [
 ]
 
 OUTPUT_FILES = [
-    "../lists/china_max_sr.list"
+    "lists/china_max_sr.list"
 ]
 
-README_PATH = "../README.md"
+README_PATH = "README.md"
 
 HTTP_TIMEOUT_SECONDS = 60
 
