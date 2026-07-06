@@ -45,11 +45,6 @@
 - 去广告规则：[https://adrules.top/](https://adrules.top/) · [https://anti-ad.net/](https://anti-ad.net/)
 - 中国直连规则：[https://whatshub.top/](https://whatshub.top/) · [https://yfamilys.com/](https://yfamilys.com/)
 
-### 引用项目
-- 广告屏蔽：[https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)
-- 中国直连：[https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
-- VIP 解锁：[https://github.com/uxudjs/FuckVIP](https://github.com/uxudjs/FuckVIP)
-
 ---
 
 <a id="zh-tw"></a>
@@ -90,11 +85,6 @@
 - 去廣告規則：[https://adrules.top/](https://adrules.top/) · [https://anti-ad.net/](https://anti-ad.net/)
 - 中國直連規則：[https://whatshub.top/](https://whatshub.top/) · [https://yfamilys.com/](https://yfamilys.com/)
 
-### 引用專案
-- 廣告屏蔽：[https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)
-- 中國直連：[https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
-- VIP 解鎖：[https://github.com/uxudjs/FuckVIP](https://github.com/uxudjs/FuckVIP)
-
 ---
 
 <a id="en"></a>
@@ -134,11 +124,6 @@ This is a collection of configuration files for the proxy app **Shadowrocket**, 
 ### Acknowledgements
 - Ad-blocking rules: [https://adrules.top/](https://adrules.top/) · [https://anti-ad.net/](https://anti-ad.net/)
 - China direct-connect rules: [https://whatshub.top/](https://whatshub.top/) · [https://yfamilys.com/](https://yfamilys.com/)
-
-### Reference Projects
-- Ad-blocking: [https://github.com/uxudjs/FuckAD](https://github.com/uxudjs/FuckAD)
-- China Direct: [https://github.com/uxudjs/ChinaRule](https://github.com/uxudjs/ChinaRule)
-- VIP Unlock: [https://github.com/uxudjs/FuckVIP](https://github.com/uxudjs/FuckVIP)
 
 ---
 
