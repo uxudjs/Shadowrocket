@@ -1,0 +1,32 @@
+#!name=FuckAppsVIP
+#!desc=Endel / AdGuard / 扫描全能王 / 有道词典 / 百度云 / 地震预警ICL / 波点音乐 / 句读
+#!author=uxudjs / ddgksf2013 / yqc007 / NobyDa / app2smile / Yu9191 / 89996462 / WeiGiegie
+
+[Script]
+# > Endel
+Endel-Unlock = type=http-response, pattern=^https:\/\/api-production\.endel\.io\/v4\/call, requires-body=1, script-path=https://ddgksf2013.top/scripts/endel.vip.js
+
+# > AdGuard
+AdGuard-Unlock = type=http-response, pattern=^https?:\/\/mobile-api\.adguard\.org\/api\/.+\/ios_validate_receipt, requires-body=1, script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/AdGuardProCrack.js
+
+# > 扫描全能王
+CamScanner-Unlock = type=http-response, pattern=https?:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\?, requires-body=1, script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/CamScanner.js
+
+# > 有道词典
+YoudaoDict-Unlock = type=http-response, pattern=^https:\/\/dict\.youdao\.com\/vip\/user\/status, requires-body=1, script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wyydcd.js
+
+# > 百度云
+BaiduCloud-Unlock = type=http-response, pattern=https?:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user, requires-body=1, script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/BaiduCloud.js
+
+# > 地震预警ICL
+ICL-Unlock = type=http-response, pattern=https?:\/\/mobile-new\.chinaeew\.cn\/v1\/order\/apple\/vip, requires-body=1, script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/dzyj.js
+
+# > 波点音乐
+Bodian-Unlock = type=http-response, pattern=^https?:\/\/(?:(?:bd-api|h5app|bodianyin|ab-bodian)\.kuwo\.cn\/(?:api\/(?:ucenter\/users\/(?:pub|login)|play\/(?:music\/v2\/(?:audioUrl|checkRight)|advert\/info)|service\/(?:music\/(?:info|download\/(?:info|config))|home\/module|global\/config\/(?:scene|vipEnter)|banner\/positions|advert\/config)|search\/topic\/word\/list|pay\/(?:vip\/(?:invitation\/(?:assist\/popup|swell)|lowPriceText)|sp\/actVip|audition\/url)|advert\/free\/config|popup\/start\/info|abtest\/ui\/info|rec\/feed)|abtest\/ui\/info)|us\.l\.qq\.com\/exapp|xs\.gdt\.qq\.com\/style_factory\/template_list), requires-body=1, max-size=-1, timeout=60, script-path=https://raw.githubusercontent.com/WeiGiegie/666/main/bdyybata1.js
+
+# > 句读
+Judou-ReplaceHeader = type=http-request, pattern=https://judouapp.com/api/v\d/mine/profile, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-header.js, timeout=30, argument=(%5Cr%5Cn)If-None-Match%3A.%2B%3F(%5Cr%5Cn)-%3E%241%242
+Judou-Unlock = type=http-response, pattern=^https?:\/\/judouapp.com\/api\/v\d\/mine\/profile, script-path=https://ddgksf2013.top/scripts/judou.vip.js, requires-body=true, max-size=-1, timeout=
+
+[MITM]
+hostname = %APPEND% api-production.endel.io, mobile-api.adguard.org, *.intsig.net, dict.youdao.com, pan.baidu.com, mobile-new.chinaeew.cn, judouapp.com, bd-api.kuwo.cn, *.kuwo.*, ad.tencentmusic.com, *.l.qq.com, 39.156.123.46:443, bd-api.kuwo.com, 39.156.123.46, 39.156.12*.*:443, h5app.kuwo.cn, bodianimgcdn.kuwo.cn, h5s.kuwo.cn, 39.156.121.20:443, 111.30.171.170:443, 39.156.121.21:443, 101.42.133.54:443, ab-bodian.kuwo.cn, 39.156.121.65:443, 39.156.121.*:443, bd-api.kuwo.cn:443, ab-bodian.kuwo.cn:443, 39.156.121.60:80, xs.gdt.qq.com
