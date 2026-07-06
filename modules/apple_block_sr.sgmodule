@@ -1,4 +1,5 @@
 #!name=AppleSystemBlock
+#!desc=Apple系统追踪屏蔽
 
 [Rule]
 # > AppleBlock
