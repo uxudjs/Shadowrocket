@@ -150,11 +150,9 @@ def update_readme_rule_count(readme_path: str, total_rules: int) -> None:
 
     lines = content.splitlines()
     prefixes = [
-        "当前合并规则总数：**",
-        "目前合併規則總數：**",
-        "Current merged rule count: **",
-        "現在の結合ルール総数：**",
-        "현재 통합 규칙 총 개수: **",
+        "GlobalProxy合并规则总数：**",
+        "GlobalProxy合併規則總數：**",
+        "GlobalProxy merged rule count: **"
     ]
     new_lines = []
     for line in lines:
