@@ -13,33 +13,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.11"
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
 
-    - name: Run global_proxy_rule.py
-      run: |
-        python actions/global_proxy_rule.py
+      - name: Run global_proxy_rule.py
+        run: |
+          python actions/global_proxy_rule.py
 
-    - name: Commit and push changes
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        git config --local user.email "53632549+uxudjs@users.noreply.github.com"
-        git config --local user.name "uxudjs"
-        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/uxudjs/Shadowrocket.git
-        git add lists/global_proxy_sr.list README.md
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Auto update GlobalProxy rules"
-          git push origin HEAD:main
-        fi
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --local user.email "53632549+uxudjs@users.noreply.github.com"
+          git config --local user.name "uxudjs"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/uxudjs/Shadowrocket.git
+          git add lists/global_proxy_sr.list README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto update GlobalProxy rules"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

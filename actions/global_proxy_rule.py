@@ -156,13 +156,16 @@ def update_readme_rule_count(readme_path: str, total_rules: int) -> None:
     ]
     new_lines = []
     for line in lines:
-        stripped = line.strip()
         replaced = False
         for prefix in prefixes:
-            if stripped.startswith(prefix):
-                new_lines.append(f"{prefix}{total_rules}**")
-                replaced = True
-                break
+            idx = line.find(prefix)
+            if idx != -1:
+                after = line[idx + len(prefix):]
+                end = after.find("**")
+                if end != -1:
+                    new_lines.append(line[:idx] + prefix + str(total_rules) + after[end:])
+                    replaced = True
+                    break
         if not replaced:
             new_lines.append(line)
 
