@@ -168,9 +168,9 @@ def update_readme_rule_count(readme_path: str, total_rules: int) -> None:
 
     lines = content.splitlines()
     prefixes = [
-        "当前合并规则总数：**",
-        "目前合併規則總數：**",
-        "Current merged rule count: **"
+        "ChinaMax合并规则总数：**",
+        "ChinaMax合併規則總數：**",
+        "ChinaMax merged rule count: **"
     ]
     new_lines = []
     for line in lines:
