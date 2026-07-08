@@ -20,7 +20,6 @@
 |------|---------------|
 | 出国规则 | [Across\_GFW.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Across_GFW.conf) |
 | 回国规则 | [Back\_CN.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Back_CN.conf) |
-| 苹果系统服务直连 | 已并入 list，无需额外添加 |
 
 ### 规则订阅
 | 规则名称 | 规则数量 | 说明 | 订阅链接 |
@@ -34,7 +33,7 @@
 |:--------:|------|:--------:|
 | **FuckAD** | 去广告模块（净化 墨迹天气 / 中国联通 / 淘票票 / 微信 / 大师兄影视 / 夸克 / 12306 / 闲鱼 / 高德地图 等） | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_ad_sr.sgmodule) |
 | **FuckVIP** | VIP 解锁模块（解锁 Endel / AdGuard / 掌描全能王 / 有道词典 / 百度云 / 地震预警ICL / Spotify / BiliBiliHD 等） | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_vip_sr.sgmodule) |
-| **Apple Block** | 系统追踪 | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
+| **Apple Block** | 系统追踪屏蔽 | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
 
 ### 使用方式
 - **配置文件**：配置 → 右上角「+」→ 填入链接并下载
@@ -60,7 +59,6 @@
 |------|--------------|
 | 出國規則 | [Across\_GFW.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Across_GFW.conf) |
 | 回國規則 | [Back\_CN.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Back_CN.conf) |
-| 蘋果系統服務直連 | 已併入 list，無需額外添加 |
 
 ### 規則訂閱
 | 規則名稱 | 規則數量 | 說明 | 訂閱連結 |
@@ -74,7 +72,7 @@
 |:--------:|------|:--------:|
 | **FuckAD** | 去廣告模組（淨化 墨跡天氣 / 中國聯通 / 淘票票 / 微信 / 大師兄影視 / 夸克 / 12306 / 閒魚 / 高德地圖 等） | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_ad_sr.sgmodule) |
 | **FuckVIP** | VIP 解鎖模組（解鎖 Endel / AdGuard / 掃描全能王 / 有道詞典 / 百度雲 / 地震預警ICL / Spotify / BiliBiliHD 等） | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_vip_sr.sgmodule) |
-| **Apple Block** | 系統追蹤 | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
+| **Apple Block** | 系統追蹤封鎖 | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
 
 ### 使用方式
 - **配置檔**：設定 → 右上角「+」→ 填入連結並下載
@@ -100,7 +98,6 @@ This is a collection of configuration files for the proxy app **Shadowrocket**, 
 |------|---------------------|
 | Overseas Rules | [Across\_GFW.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Across_GFW.conf) |
 | Return-to-China Rules | [Back\_CN.conf](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/Back_CN.conf) |
-| Apple System Services Direct | Already merged into list; no need to add separately |
 
 ### Rule Subscriptions
 | Rule Name | Rule Count | Description | Subscription Link |
@@ -114,7 +111,7 @@ This is a collection of configuration files for the proxy app **Shadowrocket**, 
 |:-----------:|-------------|:-------------:|
 | **FuckAD** | Ad-blocking module (Purify Moji Weather / China Unicom / Taopiaopiao / WeChat / Dashixiong Video / Quark / 12306 / Xianyu / Amap, etc.) | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_ad_sr.sgmodule) |
 | **FuckVIP** | VIP unlock module (unlocks Endel / AdGuard / Scanner Pro / Youdao Dict / Baidu Cloud / EQAlert ICL / Spotify / BiliBiliHD, etc.) | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_vip_sr.sgmodule) |
-| **Apple Block** | System Tracking | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
+| **Apple Block** | System tracking blocking | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
 
 ### How to Use
 - **Config file**: Settings → "+" (top right) → Enter link → Download
