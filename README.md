@@ -26,7 +26,7 @@
 |:--------:|:--------:|------|:--------:|
 | **FuckAD** | FuckAd合并规则总数：**190729** | 去广告规则集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
 | **ChinaMax** | ChinaMax合并规则总数：**45837** | 中国大陆直连规则集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
-| **GlobalProxy** | GlobalProxy合并规则总数：**33976** | 全球代理规则集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
+| **GlobalProxy** | GlobalProxy合并规则总数：**33984** | 全球代理规则集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
 
 ### 模块下载
 | 模块名称 | 说明 | 下载链接 |
@@ -65,7 +65,7 @@
 |:--------:|:--------:|------|:--------:|
 | **FuckAD** | FuckAd合併規則總數：**190729** | 去廣告規則集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
 | **ChinaMax** | ChinaMax合併規則總數：**45837** | 中國大陸直連規則集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
-| **GlobalProxy** | GlobalProxy合併規則總數：**33976** | 全球代理規則集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
+| **GlobalProxy** | GlobalProxy合併規則總數：**33984** | 全球代理規則集 | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
 
 ### 模組下載
 | 模組名稱 | 說明 | 下載連結 |
@@ -104,7 +104,7 @@ This is a collection of configuration files for the proxy app **Shadowrocket**, 
 |:---------:|:----------:|-------------|:-----------------:|
 | **FuckAD** | FuckAd merged rule count: **190729** | Ad-blocking rule set | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
 | **ChinaMax** | ChinaMax merged rule count: **45837** | China mainland direct-connect rule set | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
-| **GlobalProxy** | GlobalProxy merged rule count: **33976** | Global proxy rule set | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
+| **GlobalProxy** | GlobalProxy merged rule count: **33984** | Global proxy rule set | [Raw](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
 
 ### Module Downloads
 | Module Name | Description | Download Link |
