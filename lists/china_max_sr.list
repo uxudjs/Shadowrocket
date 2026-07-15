@@ -1,5 +1,5 @@
-# Updated time: 2026-07-14
-# Total rules: 45903
+# Updated time: 2026-07-15
+# Total rules: 45904
 # Thanks: whatshub.top
 
 DOMAIN,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
@@ -6332,6 +6332,7 @@ IP-ASN,216173
 IP-ASN,216224
 IP-ASN,216299
 IP-ASN,216412
+IP-ASN,219283
 IP-ASN,219289
 IP-ASN,219332
 IP-ASN,219378
