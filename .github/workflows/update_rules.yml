@@ -1,0 +1,74 @@
+name: Update all rules
+
+on:
+  schedule:
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: shadowrocket-rule-update
+  cancel-in-progress: false
+
+jobs:
+  update-rules:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Update all rule sets
+        shell: bash
+        run: |
+          set -euo pipefail
+          python actions/fuck_ad_rule.py
+          python actions/china_max_rule.py
+          python actions/global_proxy_rule.py
+
+      - name: Commit and push changes
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config --local user.email "53632549+uxudjs@users.noreply.github.com"
+          git config --local user.name "uxudjs"
+
+          git add             lists/fuck_ad_sr.list             lists/china_max_sr.list             lists/global_proxy_sr.list             README.md
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Auto update all rules"
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+
+            if ! git rebase origin/main; then
+              echo "Rebase failed; aborting to avoid an unsafe push"
+              git rebase --abort || true
+              exit 1
+            fi
+
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+
+            echo "Push attempt ${attempt} failed; retrying"
+            sleep $((attempt * 5))
+          done
+
+          echo "Failed to push after 3 attempts"
+          exit 1
