@@ -1,8 +1,6 @@
 # Shadowrocket
 
-[![Update FuckAD rules](https://github.com/uxudjs/Shadowrocket/actions/workflows/update_fuckad.yml/badge.svg)](https://github.com/uxudjs/Shadowrocket/actions/workflows/update_fuckad.yml)
-[![Update ChinaMax rules](https://github.com/uxudjs/Shadowrocket/actions/workflows/update_china_max.yml/badge.svg)](https://github.com/uxudjs/Shadowrocket/actions/workflows/update_china_max.yml)
-[![Update GlobalProxy rules](https://github.com/uxudjs/Shadowrocket/actions/workflows/update_global_proxy.yml/badge.svg)](https://github.com/uxudjs/Shadowrocket/actions/workflows/update_global_proxy.yml)
+[![Update all rules](https://github.com/uxudjs/Shadowrocket/actions/workflows/update_rules.yml/badge.svg)](https://github.com/uxudjs/Shadowrocket/actions/workflows/update_rules.yml)
 
 ### 🌐 选择语言 | 選擇語言 | Choose Language
 
@@ -73,10 +71,11 @@ Shadowrocket 配置、规则集与模块合集，提供出国、回国、去广�
 
 ### 自动更新
 
-- 三个规则工作流每天 **19:00 UTC** 运行，也支持在 Actions 页面手动触发
-- 工作流会拉取上游规则，过滤无效行，合并去重并排序
-- 生成结果分别写入 `lists/` 目录，同时自动更新上方三项规则数量
-- README 中的计数文本与 Action 脚本存在固定匹配关系，请勿随意修改计数标签
+- 统一规则工作流每天 **19:00 UTC** 运行，也支持在 Actions 页面手动触发
+- 工作流会依次运行三个规则脚本，拉取上游规则，过滤无效行，合并去重并排序
+- 三类规则与 README 计数在同一任务中更新，并通过一次提交统一推送
+- 并发锁确保同一时间只有一个更新任务运行；重复触发可安全合并等待
+- README 中的计数文本与规则脚本存在固定匹配关系，请勿随意修改计数标签
 
 > 说明：本仓库不额外提供 DNS 泄漏优化，实际 DNS 行为取决于 Shadowrocket、系统及网络环境。模块可能依赖第三方脚本，使用前请自行评估兼容性与风险。
 
@@ -149,10 +148,11 @@ Shadowrocket 配置、規則集與模組合集，提供出國、回國、去廣�
 
 ### 自動更新
 
-- 三個規則工作流程每天 **19:00 UTC** 執行，也支援在 Actions 頁面手動觸發
-- 工作流程會拉取上游規則，過濾無效行，合併去重並排序
-- 產生結果分別寫入 `lists/` 目錄，同時自動更新上方三項規則數量
-- README 中的計數文字與 Action 腳本存在固定匹配關係，請勿隨意修改計數標籤
+- 統一規則工作流程每天 **19:00 UTC** 執行，也支援在 Actions 頁面手動觸發
+- 工作流程會依序執行三個規則腳本，拉取上游規則，過濾無效行，合併去重並排序
+- 三類規則與 README 計數會在同一任務中更新，並透過一次提交統一推送
+- 並行鎖確保同一時間只有一個更新任務執行；重複觸發可安全合併等待
+- README 中的計數文字與規則腳本存在固定匹配關係，請勿隨意修改計數標籤
 
 > 說明：本倉庫不額外提供 DNS 洩漏最佳化，實際 DNS 行為取決於 Shadowrocket、系統及網路環境。模組可能依賴第三方腳本，使用前請自行評估相容性與風險。
 
@@ -225,10 +225,11 @@ A collection of Shadowrocket configurations, rule sets, and modules for overseas
 
 ### Automatic Updates
 
-- Three rule workflows run every day at **19:00 UTC** and can also be triggered manually from the Actions page
-- Each workflow downloads upstream rules, filters invalid lines, merges duplicates, and sorts the result
-- Generated files are written to the `lists/` directory, and the three rule counts above are updated automatically
-- README count labels are fixed matching keys used by the Action scripts; do not rename them casually
+- One unified rule workflow runs every day at **19:00 UTC** and can also be triggered manually from the Actions page
+- It runs the three rule scripts sequentially to download, filter, deduplicate, and sort upstream rules
+- All three rule sets and README counts are updated in one job and pushed in a single commit
+- A concurrency lock allows only one update job to run at a time; duplicate triggers can safely coalesce
+- README count labels are fixed matching keys used by the rule scripts; do not rename them casually
 
 > Note: This repository does not provide additional DNS leak optimization. Actual DNS behavior depends on Shadowrocket, the operating system, and the network environment. Some modules depend on third-party scripts; review compatibility and risks before use.
 
