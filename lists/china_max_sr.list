@@ -1,4 +1,4 @@
-# Updated time: 2026-07-19
+# Updated time: 2026-07-20
 # Total rules: 45948
 # Thanks: whatshub.top
 
@@ -6334,6 +6334,7 @@ IP-ASN,216173
 IP-ASN,216224
 IP-ASN,216299
 IP-ASN,216412
+IP-ASN,219207
 IP-ASN,219283
 IP-ASN,219289
 IP-ASN,219300
@@ -45274,7 +45275,6 @@ IP-CIDR,61.179.0.0/16
 IP-CIDR,61.179.0.0/16,no-resolve
 IP-CIDR,61.18.0.0/18,no-resolve
 IP-CIDR,61.18.64.0/19,no-resolve
-IP-CIDR,61.18.64.0/20
 IP-CIDR,61.18.64.0/20,no-resolve
 IP-CIDR,61.180.0.0/17
 IP-CIDR,61.180.0.0/17,no-resolve
