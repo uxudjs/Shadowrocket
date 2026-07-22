@@ -35,9 +35,9 @@ Shadowrocket 配置、规则集与模块合集，提供出国、回国、去广�
 
 | 规则名称 | 当前数量 | 说明 | 订阅链接 |
 |:---:|:---:|---|:---:|
-| **FuckAD** | FuckAd合并规则总数：**194402** | 去广告规则集 | [订阅](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
-| **ChinaMax** | ChinaMax合并规则总数：**45949** | 中国大陆直连规则集 | [订阅](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
-| **GlobalProxy** | GlobalProxy合并规则总数：**33783** | 全球代理规则集 | [订阅](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
+| **FuckAD** | FuckAd合并规则总数：**194732** | 去广告规则集 | [订阅](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
+| **ChinaMax** | ChinaMax合并规则总数：**45929** | 中国大陆直连规则集 | [订阅](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
+| **GlobalProxy** | GlobalProxy合并规则总数：**33727** | 全球代理规则集 | [订阅](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
 
 ### 模块下载
 
@@ -112,9 +112,9 @@ Shadowrocket 配置、規則集與模組合集，提供出國、回國、去廣�
 
 | 規則名稱 | 目前數量 | 說明 | 訂閱連結 |
 |:---:|:---:|---|:---:|
-| **FuckAD** | FuckAd合併規則總數：**194402** | 去廣告規則集 | [訂閱](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
-| **ChinaMax** | ChinaMax合併規則總數：**45949** | 中國大陸直連規則集 | [訂閱](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
-| **GlobalProxy** | GlobalProxy合併規則總數：**33783** | 全球代理規則集 | [訂閱](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
+| **FuckAD** | FuckAd合併規則總數：**194732** | 去廣告規則集 | [訂閱](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
+| **ChinaMax** | ChinaMax合併規則總數：**45929** | 中國大陸直連規則集 | [訂閱](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
+| **GlobalProxy** | GlobalProxy合併規則總數：**33727** | 全球代理規則集 | [訂閱](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
 
 ### 模組下載
 
@@ -189,9 +189,9 @@ A collection of Shadowrocket configurations, rule sets, and modules for overseas
 
 | Rule | Current Count | Description | Subscription |
 |:---:|:---:|---|:---:|
-| **FuckAD** | FuckAd merged rule count: **194402** | Ad-blocking rule set | [Subscribe](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
-| **ChinaMax** | ChinaMax merged rule count: **45949** | Mainland China direct-connect rule set | [Subscribe](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
-| **GlobalProxy** | GlobalProxy merged rule count: **33783** | Global proxy rule set | [Subscribe](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
+| **FuckAD** | FuckAd merged rule count: **194732** | Ad-blocking rule set | [Subscribe](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
+| **ChinaMax** | ChinaMax merged rule count: **45929** | Mainland China direct-connect rule set | [Subscribe](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
+| **GlobalProxy** | GlobalProxy merged rule count: **33727** | Global proxy rule set | [Subscribe](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
 
 ### Module Downloads
 
