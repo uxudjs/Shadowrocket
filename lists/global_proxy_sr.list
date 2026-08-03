@@ -1,5 +1,5 @@
-# Updated time: 2026-08-02
-# Total rules: 33304
+# Updated time: 2026-08-03
+# Total rules: 33305
 # Thanks: yfamilys.com
 
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -6043,6 +6043,7 @@ DOMAIN-SUFFIX,ceoexpress.com
 DOMAIN-SUFFIX,cepa.org
 DOMAIN-SUFFIX,ceporn.net
 DOMAIN-SUFFIX,ceprom.ro
+DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,cerredes.cl
 DOMAIN-SUFFIX,certificate-transparency.org
 DOMAIN-SUFFIX,certificate.revocationcheck.com
