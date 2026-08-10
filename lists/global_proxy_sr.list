@@ -1,5 +1,5 @@
-# Updated time: 2026-08-09
-# Total rules: 33301
+# Updated time: 2026-08-10
+# Total rules: 33304
 # Thanks: yfamilys.com
 
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -2351,6 +2351,7 @@ DOMAIN-SUFFIX,aidc.com.tw
 DOMAIN-SUFFIX,aiddata.org
 DOMAIN-SUFFIX,aidol.asia
 DOMAIN-SUFFIX,aierport.com
+DOMAIN-SUFFIX,aihub.top
 DOMAIN-SUFFIX,aijichang.com
 DOMAIN-SUFFIX,aikanmei.com
 DOMAIN-SUFFIX,aikapool.com
@@ -3940,6 +3941,7 @@ DOMAIN-SUFFIX,base.idf.il
 DOMAIN-SUFFIX,base.snpht.org
 DOMAIN-SUFFIX,base99.com
 DOMAIN-SUFFIX,baseballinfo.net
+DOMAIN-SUFFIX,basemaps.arcgis.com
 DOMAIN-SUFFIX,basicframes.com
 DOMAIN-SUFFIX,basil.idv.tw
 DOMAIN-SUFFIX,baslerweb.com
@@ -9992,6 +9994,7 @@ DOMAIN-SUFFIX,expatsurfer.co.uk
 DOMAIN-SUFFIX,expecthim.com
 DOMAIN-SUFFIX,expekt.com
 DOMAIN-SUFFIX,experianserasa.net
+DOMAIN-SUFFIX,experience.arcgis.com
 DOMAIN-SUFFIX,experts-univers.com
 DOMAIN-SUFFIX,explaineverything.com
 DOMAIN-SUFFIX,explicite-art.com
