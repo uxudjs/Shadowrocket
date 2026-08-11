@@ -1,5 +1,5 @@
-# Updated time: 2026-08-10
-# Total rules: 33304
+# Updated time: 2026-08-11
+# Total rules: 33305
 # Thanks: yfamilys.com
 
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -8647,6 +8647,7 @@ DOMAIN-SUFFIX,ditu.gdgdocs.org
 DOMAIN-SUFFIX,div.xxxy.biz
 DOMAIN-SUFFIX,div17.com
 DOMAIN-SUFFIX,diva-portal.org
+DOMAIN-SUFFIX,divdyn.com
 DOMAIN-SUFFIX,diveavelo.com
 DOMAIN-SUFFIX,divgearcmrfs2.cloudfront.net
 DOMAIN-SUFFIX,divinemates.co.uk
