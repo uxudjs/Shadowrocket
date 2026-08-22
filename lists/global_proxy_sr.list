@@ -1,5 +1,5 @@
-# Updated time: 2026-08-21
-# Total rules: 33306
+# Updated time: 2026-08-22
+# Total rules: 33307
 # Thanks: yfamilys.com
 
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -6159,6 +6159,7 @@ DOMAIN-SUFFIX,chatgpt.ch
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.nextweb.fun
 DOMAIN-SUFFIX,chatgpt.org
+DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,chatgpt1.nextweb.fun
 DOMAIN-SUFFIX,chatgpt4online.org
 DOMAIN-SUFFIX,chatgptunli.com
