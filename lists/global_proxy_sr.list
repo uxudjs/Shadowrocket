@@ -1,5 +1,5 @@
-# Updated time: 2026-09-04
-# Total rules: 33313
+# Updated time: 2026-09-05
+# Total rules: 33314
 # Thanks: yfamilys.com
 
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -17326,6 +17326,7 @@ DOMAIN-SUFFIX,linshiyouxiang.net
 DOMAIN-SUFFIX,linthicumblackhorse.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,linux.org.hk
+DOMAIN-SUFFIX,linux.sb
 DOMAIN-SUFFIX,linuxmint.com
 DOMAIN-SUFFIX,linuxstart.ca
 DOMAIN-SUFFIX,linuxtoy.org
