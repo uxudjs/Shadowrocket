@@ -1,5 +1,5 @@
-# Updated time: 2026-09-05
-# Total rules: 33314
+# Updated time: 2026-09-06
+# Total rules: 33317
 # Thanks: yfamilys.com
 
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -320,6 +320,8 @@ DOMAIN-SUFFIX,123.suroot.com
 DOMAIN-SUFFIX,1234.as
 DOMAIN-SUFFIX,1234.com
 DOMAIN-SUFFIX,12342.cc
+DOMAIN-SUFFIX,123av.com
+DOMAIN-SUFFIX,123av.me
 DOMAIN-SUFFIX,123rf.com
 DOMAIN-SUFFIX,126-wss.com
 DOMAIN-SUFFIX,126.etowns.org
@@ -23672,6 +23674,7 @@ DOMAIN-SUFFIX,rouman5.com
 DOMAIN-SUFFIX,roundandbrown.com
 DOMAIN-SUFFIX,roundonce.com
 DOMAIN-SUFFIX,roupacaipira.com
+DOMAIN-SUFFIX,roushuwo.com
 DOMAIN-SUFFIX,routledge.com
 DOMAIN-SUFFIX,rowman.com
 DOMAIN-SUFFIX,royal818.com
