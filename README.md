@@ -44,10 +44,8 @@ Shadowrocket 配置、规则集与模块合集，提供出国、回国、去广�
 | 模块名称 | 说明 | 下载链接 |
 |:---:|---|:---:|
 | **FuckAppsAD** | 净化墨迹天气、彩云天气、中国联通、微信、夸克、12306、闲鱼、高德地图等应用广告 | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_ad_sr.sgmodule) |
-| **FuckAppsVIP** | 集成 Endel、AdGuard、扫描全能王、有道词典、百度云、地震预警 ICL、波点音乐、句读、彩云天气等脚本 | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_vip_sr.sgmodule) |
+| **FuckAppsVIP** | 集成 Endel、AdGuard、扫描全能王、有道词典、百度云、地震预警 ICL、波点音乐、句读、彩云天气（≤ 7.20.2）等脚本 | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_vip_sr.sgmodule) |
 | **AppleSystemBlock** | 屏蔽部分 Apple 系统追踪与安全浏览遥测域名 | [下载](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
-
-> 彩云天气：广告与推广清理归入 FuckAppsAD；会员相关规则归入 FuckAppsVIP，需登录且仅适用于旧版 ≤ 7.20.2，不保证新版可用。
 
 ### 安装使用
 
@@ -123,10 +121,8 @@ Shadowrocket 配置、規則集與模組合集，提供出國、回國、去廣�
 | 模組名稱 | 說明 | 下載連結 |
 |:---:|---|:---:|
 | **FuckAppsAD** | 淨化墨跡天氣、彩雲天氣、中國聯通、微信、夸克、12306、閒魚、高德地圖等應用程式廣告 | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_ad_sr.sgmodule) |
-| **FuckAppsVIP** | 整合 Endel、AdGuard、掃描全能王、有道詞典、百度雲、地震預警 ICL、波點音樂、句讀、彩雲天氣等腳本 | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_vip_sr.sgmodule) |
+| **FuckAppsVIP** | 整合 Endel、AdGuard、掃描全能王、有道詞典、百度雲、地震預警 ICL、波點音樂、句讀、彩雲天氣（≤ 7.20.2）等腳本 | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_vip_sr.sgmodule) |
 | **AppleSystemBlock** | 封鎖部分 Apple 系統追蹤與安全瀏覽遙測網域 | [下載](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
-
-> 彩雲天氣：廣告與推廣清理歸入 FuckAppsAD；會員相關規則歸入 FuckAppsVIP，需登入且僅適用於舊版 ≤ 7.20.2，不保證新版可用。
 
 ### 安裝使用
 
@@ -202,10 +198,8 @@ A collection of Shadowrocket configurations, rule sets, and modules for overseas
 | Module | Description | Download |
 |:---:|---|:---:|
 | **FuckAppsAD** | Removes ads from Moji Weather, Caiyun Weather, China Unicom, WeChat, Quark, 12306, Xianyu, Amap, and other apps | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_ad_sr.sgmodule) |
-| **FuckAppsVIP** | Integrates scripts for Endel, AdGuard, CamScanner, Youdao Dictionary, Baidu Cloud, ICL Earthquake Warning, Bodian Music, Judou, Caiyun Weather, and more | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_vip_sr.sgmodule) |
+| **FuckAppsVIP** | Integrates scripts for Endel, AdGuard, CamScanner, Youdao Dictionary, Baidu Cloud, ICL Earthquake Warning, Bodian Music, Judou, Caiyun Weather (≤ 7.20.2), and more | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/fuck_apps_vip_sr.sgmodule) |
 | **AppleSystemBlock** | Blocks selected Apple telemetry and safe-browsing domains | [Download](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/modules/apple_block_sr.sgmodule) |
-
-> Caiyun Weather: ad and promotional cleanup belongs to FuckAppsAD. VIP-related rules belong to FuckAppsVIP, require login, and target older app versions ≤ 7.20.2; compatibility with newer versions is not guaranteed.
 
 ### Installation
 

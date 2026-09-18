@@ -29,10 +29,7 @@ Judou-ReplaceHeader = type=http-request, pattern=https://judouapp.com/api/v\d/mi
 Judou-Unlock = type=http-response, pattern=^https?:\/\/judouapp.com\/api\/v\d\/mine\/profile, script-path=https://ddgksf2013.top/scripts/judou.vip.js, requires-body=true, max-size=-1, timeout=
 
 # > 彩云天气
-# > 伪装VIP解锁48小时降水[需登录][新验证接口][需旧版≤ 7.20.2]@ddgksf2013
 Caiyun-UserDetail-Unlock = type=http-response, pattern=^https?:\/\/biz\.cyapi\.cn\/api\/v\d\/user_detail, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caiyun_json.js, requires-body=true, max-size=-1, timeout=60
-
-# > 伪装VIP解锁48小时降水[需登录][需旧版≤ 7.20.2]@ddgksf2013
 Caiyun-User-Unlock = type=http-response, pattern=^https?:\/\/biz\.cyapi\.cn\/v\d\/user, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caiyun_json.js, requires-body=true, max-size=-1, timeout=60
 
 [MITM]

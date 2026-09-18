@@ -213,7 +213,6 @@ IP-CIDR,180.76.76.200/32,REJECT
 ^https?:\/\/[a-z]+\.xiaohongshu\.com\/api\/sns\/v\d+\/guide\/home_guide - reject-200
 
 # > 彩云天气
-# > 通用广告请求@ddgksf2013
 ^https?:\/\/ad\.cyapi\.cn\/v\d - reject-200
 
 [Body Rewrite]
@@ -412,31 +411,14 @@ RedBook-Categories = type=http-response, pattern=^https?:\/\/[a-z]+\.xiaohongshu
 RedBook-Trending = type=http-response, pattern=^https?:\/\/[a-z]+\.xiaohongshu\.com\/api\/sns\/v\d+\/search\/trending, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/redbook_json.js, requires-body=true, max-size=-1, timeout=60
 
 # > 彩云天气
-# > 图层推广@ddgksf2013
 Caiyun-Layer-Activity = type=http-response, pattern=^https?:\/\/wrapper\.cyapi\.cn\/v\d\/activity, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caiyun_json.js, requires-body=true, max-size=-1, timeout=60
-
-# > 活动推广@ddgksf2013
 Caiyun-Activity = type=http-response, pattern=^https?:\/\/api\.caiyunapp\.com\/v\d\/activity, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caiyun_json.js, requires-body=true, max-size=-1, timeout=60
-
-# > 首页顶部推广@ddgksf2013
 Caiyun-HomeFeatures = type=http-response, pattern=^https?:\/\/starplucker\.cyapi\.cn\/v\d/operation/homefeatures, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caiyun_json.js, requires-body=true, max-size=-1, timeout=60
-
-# > SVIP提醒推广@ddgksf2013
 Caiyun-MessageCenter = type=http-response, pattern=^https?:\/\/starplucker\.cyapi\.cn\/v\d/notification/message_center, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caiyun_json.js, requires-body=true, max-size=-1, timeout=60
-
-# > 雨季特惠提醒@ddgksf2013
 Caiyun-CyPage = type=http-response, pattern=^https?:\/\/starplucker\.cyapi\.cn\/v\d/config/cypage, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caiyun_json.js, requires-body=true, max-size=-1, timeout=60
-
-# > 发现页信息流推荐@ddgksf2013
 Caiyun-Feeds = type=http-response, pattern=^https?:\/\/starplucker\.cyapi\.cn\/v\d/operation/feeds, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caiyun_json.js, requires-body=true, max-size=-1, timeout=60
-
-# > 发现页banners@ddgksf2013
 Caiyun-Banners = type=http-response, pattern=^https?:\/\/starplucker\.cyapi\.cn\/v\d/operation/banners, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caiyun_json.js, requires-body=true, max-size=-1, timeout=60
-
-# > 发现页中间部分@ddgksf2013
 Caiyun-Features = type=http-response, pattern=^https?:\/\/starplucker\.cyapi\.cn\/v\d/operation/features, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caiyun_json.js, requires-body=true, max-size=-1, timeout=60
-
-# > 发现页活动@ddgksf2013
 Caiyun-Campaigns = type=http-response, pattern=^https?:\/\/starplucker\.cyapi\.cn\/v\d/campaigns, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caiyun_json.js, requires-body=true, max-size=-1, timeout=60
 
 [MITM]
