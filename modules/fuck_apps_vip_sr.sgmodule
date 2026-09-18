@@ -1,5 +1,5 @@
 #!name=FuckAppsVIP
-#!desc=Endel / AdGuard / 扫描全能王 / 有道词典 / 百度云 / 地震预警ICL / 波点音乐 / 句读
+#!desc=Endel / AdGuard / 扫描全能王 / 有道词典 / 百度云 / 地震预警ICL / 波点音乐 / 句读 / 彩云天气
 #!author=uxudjs / ddgksf2013 / yqc007 / NobyDa / app2smile / Yu9191 / 89996462 / WeiGiegie
 
 [Script]
@@ -28,5 +28,12 @@ Bodian-Unlock = type=http-response, pattern=^https?:\/\/(?:(?:bd-api|h5app|bodia
 Judou-ReplaceHeader = type=http-request, pattern=https://judouapp.com/api/v\d/mine/profile, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-header.js, timeout=30, argument=(%5Cr%5Cn)If-None-Match%3A.%2B%3F(%5Cr%5Cn)-%3E%241%242
 Judou-Unlock = type=http-response, pattern=^https?:\/\/judouapp.com\/api\/v\d\/mine\/profile, script-path=https://ddgksf2013.top/scripts/judou.vip.js, requires-body=true, max-size=-1, timeout=
 
+# > 彩云天气
+# > 伪装VIP解锁48小时降水[需登录][新验证接口][需旧版≤ 7.20.2]@ddgksf2013
+Caiyun-UserDetail-Unlock = type=http-response, pattern=^https?:\/\/biz\.cyapi\.cn\/api\/v\d\/user_detail, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caiyun_json.js, requires-body=true, max-size=-1, timeout=60
+
+# > 伪装VIP解锁48小时降水[需登录][需旧版≤ 7.20.2]@ddgksf2013
+Caiyun-User-Unlock = type=http-response, pattern=^https?:\/\/biz\.cyapi\.cn\/v\d\/user, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caiyun_json.js, requires-body=true, max-size=-1, timeout=60
+
 [MITM]
-hostname = %APPEND% api-production.endel.io, mobile-api.adguard.org, *.intsig.net, dict.youdao.com, pan.baidu.com, mobile-new.chinaeew.cn, judouapp.com, bd-api.kuwo.cn, *.kuwo.*, ad.tencentmusic.com, *.l.qq.com, 39.156.123.46:443, bd-api.kuwo.com, 39.156.123.46, 39.156.12*.*:443, h5app.kuwo.cn, bodianimgcdn.kuwo.cn, h5s.kuwo.cn, 39.156.121.20:443, 111.30.171.170:443, 39.156.121.21:443, 101.42.133.54:443, ab-bodian.kuwo.cn, 39.156.121.65:443, 39.156.121.*:443, bd-api.kuwo.cn:443, ab-bodian.kuwo.cn:443, 39.156.121.60:80, xs.gdt.qq.com
+hostname = %APPEND% api-production.endel.io, mobile-api.adguard.org, *.intsig.net, dict.youdao.com, pan.baidu.com, mobile-new.chinaeew.cn, judouapp.com, bd-api.kuwo.cn, *.kuwo.*, ad.tencentmusic.com, *.l.qq.com, 39.156.123.46:443, bd-api.kuwo.com, 39.156.123.46, 39.156.12*.*:443, h5app.kuwo.cn, bodianimgcdn.kuwo.cn, h5s.kuwo.cn, 39.156.121.20:443, 111.30.171.170:443, 39.156.121.21:443, 101.42.133.54:443, ab-bodian.kuwo.cn, 39.156.121.65:443, 39.156.121.*:443, bd-api.kuwo.cn:443, ab-bodian.kuwo.cn:443, 39.156.121.60:80, xs.gdt.qq.com, biz.cyapi.cn
