@@ -1,5 +1,5 @@
-# Updated time: 2026-09-20
-# Total rules: 33293
+# Updated time: 2026-09-21
+# Total rules: 33291
 # Thanks: yfamilys.com
 
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -32762,13 +32762,7 @@ IP-CIDR,24.220.183.152/30,no-resolve
 IP-CIDR,24.220.183.156/31,no-resolve
 IP-CIDR,24.220.183.158/32,no-resolve
 IP-CIDR,24.222.87.162/32,no-resolve
-IP-CIDR,2607:fb10::/32,no-resolve
-IP-CIDR,2620:100:3000::/40,no-resolve
-IP-CIDR,2620:10c:7000::/44,no-resolve
-IP-CIDR,2620:120:e000::/40,no-resolve
 IP-CIDR,27.0.236.0/22,no-resolve
-IP-CIDR,2a00:86c0::/32,no-resolve
-IP-CIDR,2a03:5640::/32,no-resolve
 IP-CIDR,31.13.24.0/21,no-resolve
 IP-CIDR,31.13.64.0/18,no-resolve
 IP-CIDR,34.192.0.0/16,no-resolve
@@ -33213,10 +33207,14 @@ IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23c::/47,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
+IP-CIDR6,2607:fb10::/32,no-resolve
+IP-CIDR6,2620:100:3000::/40,no-resolve
+IP-CIDR6,2620:10c:7000::/44,no-resolve
+IP-CIDR6,2620:120:e000::/40,no-resolve
+IP-CIDR6,2a00:86c0::/32,no-resolve
+IP-CIDR6,2a03:5640::/32,no-resolve
 IP-CIDR6,2a0a:f280::/29,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
-OR,((IP-ASN,44907,no-resolve),(IP-ASN,59930,no-resolve),(IP-ASN,62014,no-resolve),(IP-ASN,62041,no-resolve),(IP-ASN,211157,no-resolve))
-URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
 USER-AGENT,*Spotify*
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
