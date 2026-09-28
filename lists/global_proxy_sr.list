@@ -1,5 +1,5 @@
-# Updated time: 2026-09-27
-# Total rules: 33291
+# Updated time: 2026-09-28
+# Total rules: 33292
 # Thanks: yfamilys.com
 
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -5488,6 +5488,7 @@ DOMAIN-SUFFIX,c.3mon.xyz
 DOMAIN-SUFFIX,c.box3.bid
 DOMAIN-SUFFIX,c.dvd99.xyz
 DOMAIN-SUFFIX,c.gle
+DOMAIN-SUFFIX,c.go-mpulse.net
 DOMAIN-SUFFIX,c.holmesmind.com
 DOMAIN-SUFFIX,c.htcc.us
 DOMAIN-SUFFIX,c.mi.com
