@@ -1,5 +1,5 @@
-# Updated time: 2026-09-30
-# Total rules: 33292
+# Updated time: 2026-10-01
+# Total rules: 33294
 # Thanks: yfamilys.com
 
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -11608,6 +11608,7 @@ DOMAIN-SUFFIX,fux.com
 DOMAIN-SUFFIX,fuyanyu.com
 DOMAIN-SUFFIX,fuyin.net
 DOMAIN-SUFFIX,fuyin.tv
+DOMAIN-SUFFIX,fuyin116.com
 DOMAIN-SUFFIX,fuyindiantai.org
 DOMAIN-SUFFIX,fuyu.org.tw
 DOMAIN-SUFFIX,fuzetec.com
@@ -19241,6 +19242,7 @@ DOMAIN-SUFFIX,murrayvalleystandard.com.au
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musclegirlflix.com
 DOMAIN-SUFFIX,muscleservice.com
+DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,mushroomtube.com
 DOMAIN-SUFFIX,music-radio.ru
 DOMAIN-SUFFIX,music.amazon.com
