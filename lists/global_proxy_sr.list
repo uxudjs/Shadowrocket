@@ -1,5 +1,5 @@
-# Updated time: 2026-10-01
-# Total rules: 33294
+# Updated time: 2026-10-02
+# Total rules: 33301
 # Thanks: yfamilys.com
 
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -25503,7 +25503,10 @@ DOMAIN-SUFFIX,speedmm.com
 DOMAIN-SUFFIX,speedof.me
 DOMAIN-SUFFIX,speedpan.com
 DOMAIN-SUFFIX,speedsmart.net
+DOMAIN-SUFFIX,speedtest.co
 DOMAIN-SUFFIX,speedtest.googlefiber.net
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtestcustom.com
 DOMAIN-SUFFIX,speleosphere.org
 DOMAIN-SUFFIX,spem.at
 DOMAIN-SUFFIX,spencertipping.com
@@ -29503,6 +29506,7 @@ DOMAIN-SUFFIX,wall-baby.com
 DOMAIN-SUFFIX,wallesspku.com
 DOMAIN-SUFFIX,walletconnect.com
 DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,wallhub.org
 DOMAIN-SUFFIX,wallmama.com
 DOMAIN-SUFFIX,wallornot.org
@@ -32221,6 +32225,8 @@ IP-CIDR,125.6.146.0/24,no-resolve
 IP-CIDR,125.6.149.0/24,no-resolve
 IP-CIDR,125.6.190.0/24,no-resolve
 IP-CIDR,129.134.0.0/17,no-resolve
+IP-CIDR,13.251.24.0/24,no-resolve
+IP-CIDR,13.251.41.0/24,no-resolve
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,139.45.192.1/32,no-resolve
@@ -32279,6 +32285,7 @@ IP-CIDR,167.142.14.130/32,no-resolve
 IP-CIDR,167.142.14.134/32,no-resolve
 IP-CIDR,167.142.14.138/32,no-resolve
 IP-CIDR,167.142.208.146/32,no-resolve
+IP-CIDR,17.252.156.0/23,no-resolve
 IP-CIDR,170.238.0.198/32,no-resolve
 IP-CIDR,170.238.0.202/32,no-resolve
 IP-CIDR,170.238.0.206/32,no-resolve
