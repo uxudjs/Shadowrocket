@@ -1,5 +1,5 @@
-# Updated time: 2026-10-02
-# Total rules: 38716
+# Updated time: 2026-10-03
+# Total rules: 38717
 # Thanks: whatshub.top
 
 DOMAIN,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
@@ -19851,6 +19851,7 @@ IP-CIDR,156.109.34.4/30,no-resolve
 IP-CIDR,156.154.62.0/23
 IP-CIDR,156.154.62.0/23,no-resolve
 IP-CIDR,156.224.128.0/17,no-resolve
+IP-CIDR,156.227.239.0/24
 IP-CIDR,156.227.239.0/24,no-resolve
 IP-CIDR,156.232.10.0/23
 IP-CIDR,156.232.10.0/23,no-resolve
