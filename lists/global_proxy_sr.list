@@ -1,5 +1,5 @@
-# Updated time: 2026-10-03
-# Total rules: 33301
+# Updated time: 2026-10-04
+# Total rules: 33303
 # Thanks: yfamilys.com
 
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -29989,6 +29989,7 @@ DOMAIN-SUFFIX,wikia.com
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikifcm.mando.icu
+DOMAIN-SUFFIX,wikifunctions.org
 DOMAIN-SUFFIX,wikigacha.com
 DOMAIN-SUFFIX,wikihouse.com
 DOMAIN-SUFFIX,wikii.one
@@ -30011,6 +30012,7 @@ DOMAIN-SUFFIX,wikimapia.org
 DOMAIN-SUFFIX,wikimedia-dns.org
 DOMAIN-SUFFIX,wikimedia.it
 DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikimediafoundation.org
 DOMAIN-SUFFIX,wikimirror.org
 DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,wikipdia.org
