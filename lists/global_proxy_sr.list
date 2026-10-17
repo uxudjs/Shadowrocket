@@ -1,5 +1,5 @@
-# Updated time: 2026-10-16
-# Total rules: 33318
+# Updated time: 2026-10-17
+# Total rules: 33319
 # Thanks: yfamilys.com
 
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -18479,6 +18479,7 @@ DOMAIN-SUFFIX,mesu-china.apple.com.akadns.net
 DOMAIN-SUFFIX,mesubuta.net
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,metacafe.com
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,metafilter.com
