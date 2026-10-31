@@ -1,5 +1,5 @@
-# Updated time: 2026-10-30
-# Total rules: 37026
+# Updated time: 2026-10-31
+# Total rules: 37030
 # Thanks: yfamilys.com
 
 DOMAIN,1010.hkspeedtest.com
@@ -6320,6 +6320,7 @@ DOMAIN-SUFFIX,antd.org
 DOMAIN-SUFFIX,antenneunna.de
 DOMAIN-SUFFIX,anthem.com
 DOMAIN-SUFFIX,anthonycalzadilla.com
+DOMAIN-SUFFIX,anthropic.auth0.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,anti-coco.top
 DOMAIN-SUFFIX,anti1984.com
@@ -8622,6 +8623,7 @@ DOMAIN-SUFFIX,bscdn.xyz
 DOMAIN-SUFFIX,bsdrp.net
 DOMAIN-SUFFIX,bskk.com
 DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.chat
 DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,bsn.ie
@@ -10070,7 +10072,9 @@ DOMAIN-SUFFIX,classicalguitarblog.net
 DOMAIN-SUFFIX,classicogauge.net
 DOMAIN-SUFFIX,classicscore.hut2.ru
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.app
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,claudiopagliara.it
 DOMAIN-SUFFIX,clb.org.hk
