@@ -1,5 +1,5 @@
-# Updated time: 2026-11-05
-# Total rules: 53504
+# Updated time: 2026-11-06
+# Total rules: 53524
 # Thanks: yfamilys.com
 
 DOMAIN,1010.hkspeedtest.com
@@ -213,6 +213,7 @@ DOMAIN,assets.streamlinehq.com
 DOMAIN,assets.swiftkey.com
 DOMAIN,assets.swoogo.com
 DOMAIN,assets.tatlerasia.com
+DOMAIN,assets.temporary-phone-number.com
 DOMAIN,assets.the-independent.com
 DOMAIN,assets.tigerdata.com
 DOMAIN,assets.tokopedia.net
@@ -2514,6 +2515,7 @@ DOMAIN,speed.newclicktelecom.com.br
 DOMAIN,speed.newmarket.telmax.ca
 DOMAIN,speed.nutelecom.com
 DOMAIN,speed.onlinedersm.xyz
+DOMAIN,speed.open.ad.jp
 DOMAIN,speed.per.aussiebroadband.com.au
 DOMAIN,speed.rikanet.com.br
 DOMAIN,speed.riverside.rocks
@@ -2573,6 +2575,7 @@ DOMAIN,speed1.e-caps.net
 DOMAIN,speed1.myascend.ca
 DOMAIN,speed1.sandiego.intrepidfiber.com
 DOMAIN,speed1.spitfireuk.net
+DOMAIN,speed1.supersonicinternet.com
 DOMAIN,speed1.syseleven.net
 DOMAIN,speed1.teratelecom.com.br
 DOMAIN,speed1.tij.attmex.mx
@@ -3131,6 +3134,7 @@ DOMAIN,speedtest.conecta-t.es
 DOMAIN,speedtest.conectaamazonia.com.br
 DOMAIN,speedtest.conectjadns.com.br
 DOMAIN,speedtest.conectnorte.com.br
+DOMAIN,speedtest.conectstelecom.com.br
 DOMAIN,speedtest.connectbv8.com.br
 DOMAIN,speedtest.connectjasper.com
 DOMAIN,speedtest.connectsp.com
@@ -3293,6 +3297,7 @@ DOMAIN,speedtest.gatchina.ru
 DOMAIN,speedtest.gayatricable.co.in
 DOMAIN,speedtest.gelicon.ru
 DOMAIN,speedtest.geneseo.com
+DOMAIN,speedtest.geniusnetwork.in
 DOMAIN,speedtest.genxbroadband.com
 DOMAIN,speedtest.getstreamhosting.com
 DOMAIN,speedtest.getwireless.net
@@ -3395,6 +3400,7 @@ DOMAIN,speedtest.inoc.net
 DOMAIN,speedtest.inovewifi.com
 DOMAIN,speedtest.inovewifi.com.br
 DOMAIN,speedtest.instantsupport.co.in
+DOMAIN,speedtest.interligpro.com.br
 DOMAIN,speedtest.internet.one
 DOMAIN,speedtest.internetbolaget.nu
 DOMAIN,speedtest.internetsubway.com
@@ -4804,6 +4810,7 @@ DOMAIN,stczs.norteultrafibra.com.br
 DOMAIN,stdal.highlinefast.com
 DOMAIN,stdel.blazencr.com
 DOMAIN,stdel.tatatelebusiness.com
+DOMAIN,stealth.net
 DOMAIN,stedmontonwireless.rogers.com
 DOMAIN,stest.broadstarnet.in
 DOMAIN,stest.ultraconnect.com.br
@@ -5873,6 +5880,7 @@ DOMAIN-SUFFIX,18comic.art
 DOMAIN-SUFFIX,18comic.bet
 DOMAIN-SUFFIX,18comic.cc
 DOMAIN-SUFFIX,18comic.company
+DOMAIN-SUFFIX,18comic.ink
 DOMAIN-SUFFIX,18comic.life
 DOMAIN-SUFFIX,18comic.live
 DOMAIN-SUFFIX,18comic.org
@@ -11614,6 +11622,7 @@ DOMAIN-SUFFIX,begadistrictnews.com.au
 DOMAIN-SUFFIX,beget.app
 DOMAIN-SUFFIX,beget.cloud
 DOMAIN-SUFFIX,beget.com
+DOMAIN-SUFFIX,beget.email
 DOMAIN-SUFFIX,beget.hosting
 DOMAIN-SUFFIX,beget.pro
 DOMAIN-SUFFIX,beget.tech
@@ -12111,6 +12120,7 @@ DOMAIN-SUFFIX,bingapistatistics.com
 DOMAIN-SUFFIX,bingoporno.com
 DOMAIN-SUFFIX,bingparachute.com
 DOMAIN-SUFFIX,bingsandbox.com
+DOMAIN-SUFFIX,bingstatic.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,bingx.com
@@ -12623,6 +12633,7 @@ DOMAIN-SUFFIX,bmia.org
 DOMAIN-SUFFIX,bmj.com
 DOMAIN-SUFFIX,bmjc.net
 DOMAIN-SUFFIX,bml.info
+DOMAIN-SUFFIX,bmonkeys.net
 DOMAIN-SUFFIX,bmp.ovh
 DOMAIN-SUFFIX,bmqs.net
 DOMAIN-SUFFIX,bms-lifescience.ch
@@ -12941,6 +12952,7 @@ DOMAIN-SUFFIX,bokepxsex.com
 DOMAIN-SUFFIX,bokus.com
 DOMAIN-SUFFIX,bol.com
 DOMAIN-SUFFIX,boldanddetermined.com
+DOMAIN-SUFFIX,boldgrid.com
 DOMAIN-SUFFIX,boldporntube.com
 DOMAIN-SUFFIX,bolehvpn.net
 DOMAIN-SUFFIX,bollyinside.com
@@ -15558,6 +15570,7 @@ DOMAIN-SUFFIX,cloudvolumes.com
 DOMAIN-SUFFIX,cloudvpn.pro
 DOMAIN-SUFFIX,cloudwall.io
 DOMAIN-SUFFIX,cloudwards.net
+DOMAIN-SUFFIX,cloudwp.dev
 DOMAIN-SUFFIX,cloudy2.gq
 DOMAIN-SUFFIX,cloudyzgirl.com
 DOMAIN-SUFFIX,cloupia.com
@@ -32522,7 +32535,6 @@ DOMAIN-SUFFIX,maturetubeporn.com
 DOMAIN-SUFFIX,maturewomenanal.com
 DOMAIN-SUFFIX,maturexxxvideos.cc
 DOMAIN-SUFFIX,mauerspecht.org
-DOMAIN-SUFFIX,maven.neoforged.net
 DOMAIN-SUFFIX,maven.org
 DOMAIN-SUFFIX,max-a.co.jp
 DOMAIN-SUFFIX,max.com
@@ -36035,6 +36047,7 @@ DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,npms.io
 DOMAIN-SUFFIX,npmshops.com
+DOMAIN-SUFFIX,npmx.dev
 DOMAIN-SUFFIX,npnt.me
 DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,npsboost.com
@@ -45795,8 +45808,11 @@ DOMAIN-SUFFIX,tiktokeu-cdn.com
 DOMAIN-SUFFIX,tiktokglobalshopv.com
 DOMAIN-SUFFIX,tiktokistheccp.com
 DOMAIN-SUFFIX,tiktokrow-cdn.com
+DOMAIN-SUFFIX,tiktokshop.com
+DOMAIN-SUFFIX,tiktokstaticb.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokvapp.com
 DOMAIN-SUFFIX,tikvpn.com
 DOMAIN-SUFFIX,tilastopaja.org
 DOMAIN-SUFFIX,tilda.cc
@@ -48606,6 +48622,7 @@ DOMAIN-SUFFIX,vodafone.com
 DOMAIN-SUFFIX,vodafone.com.tr
 DOMAIN-SUFFIX,vodafone.ie
 DOMAIN-SUFFIX,vodafone.it
+DOMAIN-SUFFIX,vodafoneziggo.nl
 DOMAIN-SUFFIX,voding.herokuapp.com
 DOMAIN-SUFFIX,vodospad.net.ua
 DOMAIN-SUFFIX,voflix.com
@@ -49378,8 +49395,10 @@ DOMAIN-SUFFIX,webevade.com
 DOMAIN-SUFFIX,webevader.org
 DOMAIN-SUFFIX,webex.com
 DOMAIN-SUFFIX,webex.com.br
+DOMAIN-SUFFIX,webflow-ext.com
 DOMAIN-SUFFIX,webflow-tnl.firebaseio.com
 DOMAIN-SUFFIX,webflow.com
+DOMAIN-SUFFIX,webflow.io
 DOMAIN-SUFFIX,webfreer.com
 DOMAIN-SUFFIX,webgata.net
 DOMAIN-SUFFIX,webgirlsonline.net
@@ -52569,6 +52588,7 @@ DOMAIN-SUFFIX,ziddu.com
 DOMAIN-SUFFIX,zifaner.com
 DOMAIN-SUFFIX,zifanr.net
 DOMAIN-SUFFIX,ziffstatic.com
+DOMAIN-SUFFIX,ziggo.nl
 DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,zijieyunti.com
 DOMAIN-SUFFIX,zillionk.com
