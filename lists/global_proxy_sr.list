@@ -1,5 +1,5 @@
-# Updated time: 2026-11-06
-# Total rules: 53524
+# Updated time: 2026-11-07
+# Total rules: 53527
 # Thanks: yfamilys.com
 
 DOMAIN,1010.hkspeedtest.com
@@ -12,7 +12,6 @@ DOMAIN,40gspeedtest.mnsi.net
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,77.testdebit.info
 DOMAIN,7facile.brsserver.com.br
-DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,7starinternet.com
 DOMAIN,a-speedtest.brasildigital.net.br
 DOMAIN,a-tiles.locationiq.com
@@ -347,7 +346,6 @@ DOMAIN,cacerts.digicert.com
 DOMAIN,cache-05.filehippo.net
 DOMAIN,cache.hackedfreegames.com
 DOMAIN,cache.industry.siemens.com
-DOMAIN,cache.ip-api.com
 DOMAIN,cache.mapcomplete.org
 DOMAIN,cache.omnicalculator.com
 DOMAIN,cached.rebuyengine.com
@@ -1074,6 +1072,7 @@ DOMAIN,fonts.zapier.com
 DOMAIN,fonts1.unidays.world
 DOMAIN,forest-mt-s3.seekrtech.com
 DOMAIN,fr-1.node.delton.ovh
+DOMAIN,fra-de-008.xvperf.net
 DOMAIN,fra-eq5-tptest1.31173.se
 DOMAIN,fra.speedtest.csgobans.com
 DOMAIN,fra1speedtest01.skylogic.com
@@ -1930,6 +1929,7 @@ DOMAIN,ookla2.mbspeed.net
 DOMAIN,ookla3.1und1-mobilfunk.de
 DOMAIN,ooklaserver.aryk.fr
 DOMAIN,ooklaserver1-del1.skymaxbroadband.com
+DOMAIN,ooklaspdtstsvr.zitel.com
 DOMAIN,ooklaspeed.statenet.in
 DOMAIN,ooklaspeed.ttron.eu
 DOMAIN,ooklaspeedtest-cdv.quebeccloud.com
@@ -3247,6 +3247,7 @@ DOMAIN,speedtest.fastwebnetworks.in
 DOMAIN,speedtest.fbc-tele.com
 DOMAIN,speedtest.fc-fra4.as51202.net
 DOMAIN,speedtest.fehmer.tech
+DOMAIN,speedtest.fenixtelecom.net.br
 DOMAIN,speedtest.fhsu.edu
 DOMAIN,speedtest.fiber91.com
 DOMAIN,speedtest.fibercast.net
@@ -3901,6 +3902,7 @@ DOMAIN,speedtest.team-host.ru
 DOMAIN,speedtest.techminds.ca
 DOMAIN,speedtest.technobulut.com
 DOMAIN,speedtest.technofiber.co
+DOMAIN,speedtest.tefenet.com.br
 DOMAIN,speedtest.teknosos.com.tr
 DOMAIN,speedtest.telbo.net
 DOMAIN,speedtest.telecablecr.com
@@ -19588,7 +19590,6 @@ DOMAIN-SUFFIX,edmontonservice.com
 DOMAIN-SUFFIX,edninfo.com
 DOMAIN-SUFFIX,ednovas.org
 DOMAIN-SUFFIX,edns.biz
-DOMAIN-SUFFIX,edns.ip-api.com
 DOMAIN-SUFFIX,edom.com.tw
 DOMAIN-SUFFIX,edominations.com
 DOMAIN-SUFFIX,edomtech.com
@@ -28151,6 +28152,7 @@ DOMAIN-SUFFIX,iot.korea.ac.kr
 DOMAIN-SUFFIX,iotinactionevents.com
 DOMAIN-SUFFIX,iownyour.biz
 DOMAIN-SUFFIX,iownyour.org
+DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip-ceua.es
 DOMAIN-SUFFIX,ip-scan.adspower.net
 DOMAIN-SUFFIX,ip-v6.eu
@@ -31142,6 +31144,9 @@ DOMAIN-SUFFIX,lilly.com
 DOMAIN-SUFFIX,lilo.org
 DOMAIN-SUFFIX,lim.gotgeeks.com
 DOMAIN-SUFFIX,limbopro.xyz
+DOMAIN-SUFFIX,limbuscompany.global
+DOMAIN-SUFFIX,limbuscompanyapi.com
+DOMAIN-SUFFIX,limbuscompanycdn.org
 DOMAIN-SUFFIX,limedia.tw
 DOMAIN-SUFFIX,limelight.com
 DOMAIN-SUFFIX,limelight.moe
@@ -42772,8 +42777,8 @@ DOMAIN-SUFFIX,skin119.com.tw
 DOMAIN-SUFFIX,skincancerflorida.com
 DOMAIN-SUFFIX,skinnyglam.com
 DOMAIN-SUFFIX,skinstrip.net
+DOMAIN-SUFFIX,skinswap.com
 DOMAIN-SUFFIX,skiyourhighness.com
-DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,skn.noip.me
 DOMAIN-SUFFIX,skoda.de
 DOMAIN-SUFFIX,skokka.com
@@ -48622,7 +48627,6 @@ DOMAIN-SUFFIX,vodafone.com
 DOMAIN-SUFFIX,vodafone.com.tr
 DOMAIN-SUFFIX,vodafone.ie
 DOMAIN-SUFFIX,vodafone.it
-DOMAIN-SUFFIX,vodafoneziggo.nl
 DOMAIN-SUFFIX,voding.herokuapp.com
 DOMAIN-SUFFIX,vodospad.net.ua
 DOMAIN-SUFFIX,voflix.com
@@ -52588,7 +52592,6 @@ DOMAIN-SUFFIX,ziddu.com
 DOMAIN-SUFFIX,zifaner.com
 DOMAIN-SUFFIX,zifanr.net
 DOMAIN-SUFFIX,ziffstatic.com
-DOMAIN-SUFFIX,ziggo.nl
 DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,zijieyunti.com
 DOMAIN-SUFFIX,zillionk.com
