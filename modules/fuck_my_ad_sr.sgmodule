@@ -1,0 +1,11 @@
+#!name=FuckMyAD
+#!desc=趣智校园
+#!author=uxudjs
+
+[Body Rewrite]
+# > 支付宝
+# > 小程序_趣智校园
+http-response-jq ^https:\/\/v3-api\.china-qzxy\.cn(?::443)?\/project\/adv\/ali\/list(?:\?[^#]*)?$ '. as $original | try (if type == "object" and .success == true and .errorCode == 0 and (.data | type) == "array" and all(.data[]; type == "object" and (.advType | type) == "number" and (.advertiseName | type) == "string" and (.manufacturerName | type) == "string") then .data = [] else . end) catch $original'
+
+[MITM]
+hostname = %APPEND% v3-api.china-qzxy.cn
