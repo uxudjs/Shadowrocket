@@ -20,6 +20,7 @@ Shadowrocket 配置、规则集与模块合集，提供出国、回国、去广�
 - 🛡️ **去广告规则** - 聚合多个上游规则源，自动过滤、去重并排序
 - 🇨🇳 **中国直连规则** - 聚合常用中国大陆服务、媒体、IP 与 ASN 规则
 - 🌍 **全球代理规则** - 覆盖 GitHub、Telegram、流媒体及其他常用境外服务
+- 🤖 **AI 聚合规则** - 合并自维护 Dola、通用 AI 和 Apple Intelligence 规则
 - 🧩 **实用模块合集** - 提供应用去广告、功能增强与 Apple 系统追踪屏蔽模块
 - 🔄 **每日自动更新** - GitHub Actions 自动更新规则文件及 README 中的规则数量
 - 📱 **直接订阅使用** - 配置、规则集和模块均可通过 Raw 链接导入 Shadowrocket
@@ -35,6 +36,7 @@ Shadowrocket 配置、规则集与模块合集，提供出国、回国、去广�
 
 | 规则名称 | 当前数量 | 说明 | 订阅链接 |
 |:---:|:---:|---|:---:|
+| **AI** | AI合并规则总数：**116** | Dola、通用 AI 与 Apple Intelligence 规则集 | [订阅](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/AI.list) |
 | **FuckAD** | FuckAd合并规则总数：**226791** | 去广告规则集 | [订阅](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
 | **ChinaMax** | ChinaMax合并规则总数：**57880** | 中国大陆直连规则集 | [订阅](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
 | **GlobalProxy** | GlobalProxy合并规则总数：**56999** | 全球代理规则集 | [订阅](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
@@ -72,8 +74,10 @@ Shadowrocket 配置、规则集与模块合集，提供出国、回国、去广�
 ### 自动更新
 
 - 统一规则工作流每天 **19:00 UTC** 运行，也支持在 Actions 页面手动触发
-- 工作流会依次运行三个规则脚本，拉取上游规则，过滤无效行，合并去重并排序
-- 三类规则与 README 计数在同一任务中更新，并通过一次提交统一推送
+- 工作流会依次运行四个规则脚本，拉取上游规则，过滤无效行，合并去重并排序
+- 四类规则与 README 计数在同一任务中更新，并通过一次提交统一推送
+- Dola 自维护规则位于 `actions/ai_rule.py` 顶部的 `DOLA_RULES`；生成的 `lists/AI.list` 优先列出 Dola，再聚合两个上游来源
+- AI 规则更新时间沿用 `# Updated time: YYYY-MM-DD` 格式（UTC 日期），订阅地址保持不变
 - 并发锁确保同一时间只有一个更新任务运行；重复触发可安全合并等待
 - README 中的计数文本与规则脚本存在固定匹配关系，请勿随意修改计数标签
 
@@ -84,6 +88,7 @@ Shadowrocket 配置、规则集与模块合集，提供出国、回国、去广�
 - 去广告规则：[Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) · [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD)
 - 中国直连规则：[whatshub.top](https://whatshub.top/) · [yfamilys.com](https://yfamilys.com/)
 - 全球代理规则：[yfamilys.com](https://yfamilys.com/)
+- AI 规则：[ddgksf2013 Ai.yaml](https://ddgksf2013.top/filter/Ai.yaml) · [ddgksf2013 AppleIntelligence.list](https://raw.githubusercontent.com/ddgksf2013/Filter/refs/heads/master/AppleIntelligence.list) · Dola 自维护规则
 
 ---
 
@@ -97,6 +102,7 @@ Shadowrocket 配置、規則集與模組合集，提供出國、回國、去廣�
 - 🛡️ **去廣告規則** - 聚合多個上游規則來源，自動過濾、去重並排序
 - 🇨🇳 **中國直連規則** - 聚合常用中國大陸服務、媒體、IP 與 ASN 規則
 - 🌍 **全球代理規則** - 涵蓋 GitHub、Telegram、串流媒體及其他常用境外服務
+- 🤖 **AI 聚合規則** - 合併自行維護的 Dola、通用 AI 與 Apple Intelligence 規則
 - 🧩 **實用模組合集** - 提供應用程式去廣告、功能增強與 Apple 系統追蹤封鎖模組
 - 🔄 **每日自動更新** - GitHub Actions 自動更新規則檔案及 README 中的規則數量
 - 📱 **直接訂閱使用** - 配置、規則集和模組均可透過 Raw 連結匯入 Shadowrocket
@@ -112,6 +118,7 @@ Shadowrocket 配置、規則集與模組合集，提供出國、回國、去廣�
 
 | 規則名稱 | 目前數量 | 說明 | 訂閱連結 |
 |:---:|:---:|---|:---:|
+| **AI** | AI合併規則總數：**116** | Dola、通用 AI 與 Apple Intelligence 規則集 | [訂閱](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/AI.list) |
 | **FuckAD** | FuckAd合併規則總數：**226791** | 去廣告規則集 | [訂閱](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
 | **ChinaMax** | ChinaMax合併規則總數：**57880** | 中國大陸直連規則集 | [訂閱](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
 | **GlobalProxy** | GlobalProxy合併規則總數：**56999** | 全球代理規則集 | [訂閱](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
@@ -149,8 +156,10 @@ Shadowrocket 配置、規則集與模組合集，提供出國、回國、去廣�
 ### 自動更新
 
 - 統一規則工作流程每天 **19:00 UTC** 執行，也支援在 Actions 頁面手動觸發
-- 工作流程會依序執行三個規則腳本，拉取上游規則，過濾無效行，合併去重並排序
-- 三類規則與 README 計數會在同一任務中更新，並透過一次提交統一推送
+- 工作流程會依序執行四個規則腳本，拉取上游規則，過濾無效行，合併去重並排序
+- 四類規則與 README 計數會在同一任務中更新，並透過一次提交統一推送
+- Dola 自行維護的規則位於 `actions/ai_rule.py` 頂部的 `DOLA_RULES`；產生的 `lists/AI.list` 優先列出 Dola，再聚合兩個上游來源
+- AI 規則更新時間沿用 `# Updated time: YYYY-MM-DD` 格式（UTC 日期），訂閱網址保持不變
 - 並行鎖確保同一時間只有一個更新任務執行；重複觸發可安全合併等待
 - README 中的計數文字與規則腳本存在固定匹配關係，請勿隨意修改計數標籤
 
@@ -161,6 +170,7 @@ Shadowrocket 配置、規則集與模組合集，提供出國、回國、去廣�
 - 去廣告規則：[Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) · [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD)
 - 中國直連規則：[whatshub.top](https://whatshub.top/) · [yfamilys.com](https://yfamilys.com/)
 - 全球代理規則：[yfamilys.com](https://yfamilys.com/)
+- AI 規則：[ddgksf2013 Ai.yaml](https://ddgksf2013.top/filter/Ai.yaml) · [ddgksf2013 AppleIntelligence.list](https://raw.githubusercontent.com/ddgksf2013/Filter/refs/heads/master/AppleIntelligence.list) · 自行維護的 Dola 規則
 
 ---
 
@@ -174,6 +184,7 @@ A collection of Shadowrocket configurations, rule sets, and modules for overseas
 - 🛡️ **Ad-blocking rules** - Aggregates multiple upstream sources, then filters, deduplicates, and sorts them
 - 🇨🇳 **China direct rules** - Covers popular mainland China services, media, IP ranges, and ASNs
 - 🌍 **Global proxy rules** - Covers GitHub, Telegram, streaming media, and other commonly used global services
+- 🤖 **AI rules** - Aggregates locally maintained Dola rules, general AI rules, and Apple Intelligence rules
 - 🧩 **Utility modules** - Includes app ad blocking, feature-enhancement scripts, and Apple telemetry blocking
 - 🔄 **Daily automatic updates** - GitHub Actions updates rule files and their counts in this README
 - 📱 **Direct subscriptions** - Import configurations, rule sets, and modules into Shadowrocket through Raw links
@@ -189,6 +200,7 @@ A collection of Shadowrocket configurations, rule sets, and modules for overseas
 
 | Rule | Current Count | Description | Subscription |
 |:---:|:---:|---|:---:|
+| **AI** | AI merged rule count: **116** | Dola, general AI, and Apple Intelligence rule set | [Subscribe](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/AI.list) |
 | **FuckAD** | FuckAd merged rule count: **226791** | Ad-blocking rule set | [Subscribe](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/fuck_ad_sr.list) |
 | **ChinaMax** | ChinaMax merged rule count: **57880** | Mainland China direct-connect rule set | [Subscribe](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/china_max_sr.list) |
 | **GlobalProxy** | GlobalProxy merged rule count: **56999** | Global proxy rule set | [Subscribe](https://raw.githubusercontent.com/uxudjs/Shadowrocket/refs/heads/main/lists/global_proxy_sr.list) |
@@ -226,8 +238,10 @@ A collection of Shadowrocket configurations, rule sets, and modules for overseas
 ### Automatic Updates
 
 - One unified rule workflow runs every day at **19:00 UTC** and can also be triggered manually from the Actions page
-- It runs the three rule scripts sequentially to download, filter, deduplicate, and sort upstream rules
-- All three rule sets and README counts are updated in one job and pushed in a single commit
+- It runs the four rule scripts sequentially to download, filter, deduplicate, and sort upstream rules
+- All four rule sets and README counts are updated in one job and pushed in a single commit
+- Maintain Dola rules in `DOLA_RULES` at the top of `actions/ai_rule.py`; the generated `lists/AI.list` lists Dola first, followed by rules from the two upstream sources
+- AI update dates use the existing `# Updated time: YYYY-MM-DD` format (UTC date), and the subscription URL stays the same
 - A concurrency lock allows only one update job to run at a time; duplicate triggers can safely coalesce
 - README count labels are fixed matching keys used by the rule scripts; do not rename them casually
 
@@ -238,6 +252,7 @@ A collection of Shadowrocket configurations, rule sets, and modules for overseas
 - Ad-blocking rules: [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) · [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD)
 - China direct rules: [whatshub.top](https://whatshub.top/) · [yfamilys.com](https://yfamilys.com/)
 - Global proxy rules: [yfamilys.com](https://yfamilys.com/)
+- AI rules: [ddgksf2013 Ai.yaml](https://ddgksf2013.top/filter/Ai.yaml) · [ddgksf2013 AppleIntelligence.list](https://raw.githubusercontent.com/ddgksf2013/Filter/refs/heads/master/AppleIntelligence.list) · Locally maintained Dola rules
 
 ---
 

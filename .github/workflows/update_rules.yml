@@ -32,6 +32,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          python actions/ai_rule.py
           python actions/fuck_ad_rule.py
           python actions/china_max_rule.py
           python actions/global_proxy_rule.py
@@ -44,7 +45,12 @@ jobs:
           git config --local user.email "53632549+uxudjs@users.noreply.github.com"
           git config --local user.name "uxudjs"
 
-          git add             lists/fuck_ad_sr.list             lists/china_max_sr.list             lists/global_proxy_sr.list             README.md
+          git add \
+            lists/AI.list \
+            lists/fuck_ad_sr.list \
+            lists/china_max_sr.list \
+            lists/global_proxy_sr.list \
+            README.md
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
