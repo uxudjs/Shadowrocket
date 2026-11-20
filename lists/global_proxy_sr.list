@@ -1,10 +1,9 @@
-# Updated time: 2026-11-19
-# Total rules: 53525
+# Updated time: 2026-11-20
+# Total rules: 53547
 # Thanks: yfamilys.com
 
 DOMAIN,1010.hkspeedtest.com
 DOMAIN,172673828273027382738738.de
-DOMAIN,1password.drift.click
 DOMAIN,2bnetwork.brsserver.com.br
 DOMAIN,383-2speedtest.wightman.ca
 DOMAIN,3dna.nationbuilder.com
@@ -12,7 +11,6 @@ DOMAIN,40gspeedtest.mnsi.net
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,77.testdebit.info
 DOMAIN,7facile.brsserver.com.br
-DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,7starinternet.com
 DOMAIN,a-speedtest.brasildigital.net.br
 DOMAIN,a-tiles.locationiq.com
@@ -322,6 +320,7 @@ DOMAIN,btlr-speedtest-02.brightspeed.com
 DOMAIN,bucket.noy.asia
 DOMAIN,bucket1.notaku.so
 DOMAIN,buft-speedtest-02.brightspeed.com
+DOMAIN,builds.dotnet.microsoft.com
 DOMAIN,bundle.5gtb.com
 DOMAIN,bundle.9gtb.com
 DOMAIN,bundle.dyn-rev.app
@@ -347,7 +346,6 @@ DOMAIN,cacerts.digicert.com
 DOMAIN,cache-05.filehippo.net
 DOMAIN,cache.hackedfreegames.com
 DOMAIN,cache.industry.siemens.com
-DOMAIN,cache.ip-api.com
 DOMAIN,cache.mapcomplete.org
 DOMAIN,cache.omnicalculator.com
 DOMAIN,cached.rebuyengine.com
@@ -889,6 +887,7 @@ DOMAIN,dabwali.softechinfosol.com
 DOMAIN,dai3fd1oh325y.cloudfront.net
 DOMAIN,dal-speedtest.net.sangoma.net
 DOMAIN,dal-speedtest.transtelco.net
+DOMAIN,dallas.outboundrix.cloud
 DOMAIN,dallas1.cabospeed.com
 DOMAIN,dalspeedtest.rtatel.com
 DOMAIN,dam.freshworks.com
@@ -1074,6 +1073,7 @@ DOMAIN,fonts.zapier.com
 DOMAIN,fonts1.unidays.world
 DOMAIN,forest-mt-s3.seekrtech.com
 DOMAIN,fr-1.node.delton.ovh
+DOMAIN,fra-de-008.xvperf.net
 DOMAIN,fra-eq5-tptest1.31173.se
 DOMAIN,fra.speedtest.csgobans.com
 DOMAIN,fra1speedtest01.skylogic.com
@@ -1174,6 +1174,7 @@ DOMAIN,hoyalclub.synology.me
 DOMAIN,hpstore.corpmerchandise.com
 DOMAIN,hs13.aratwifi.com.tr
 DOMAIN,hs14.aratwifi.com.tr
+DOMAIN,http-intake.logs.us5.datadoghq.com
 DOMAIN,hub-assets.displaycal.net
 DOMAIN,hub.slarker.me
 DOMAIN,hubspotonwebflow.com
@@ -1221,6 +1222,7 @@ DOMAIN,ih0.redbubble.net
 DOMAIN,ih1.redbubble.net
 DOMAIN,ih2.redbubble.net
 DOMAIN,ih3.redbubble.net
+DOMAIN,ihgtelecom.brsserver.com.br
 DOMAIN,ik.imgkit.net
 DOMAIN,im.np-payment-gateway.com
 DOMAIN,imag.malavida.com
@@ -1410,6 +1412,7 @@ DOMAIN,iperf-ams-nl.eranium.net
 DOMAIN,iperf.gakijken.nl
 DOMAIN,ipl3pt.fft.ops.eu.uu.net
 DOMAIN,ipl3pt.syd.ops.aspac.uu.net
+DOMAIN,iprsoftwaremedia.com
 DOMAIN,ipxy.io
 DOMAIN,iq-netspeed.nwtel.ca
 DOMAIN,irp-cdn.multiscreensite.com
@@ -1581,7 +1584,6 @@ DOMAIN,m1speedtest1.m1net.com.sg
 DOMAIN,m3u8.girigirilove.com
 DOMAIN,madvpdspeedtesta.voiped.com
 DOMAIN,magic.scalar.com
-DOMAIN,makerworld.bblmw.com
 DOMAIN,mantisloader.mantis-awx.com
 DOMAIN,map.adsbexchange.com
 DOMAIN,maps-api-cdn.meteoblue.com
@@ -1606,6 +1608,7 @@ DOMAIN,media.cleanshot.cloud
 DOMAIN,media.convertkit.com
 DOMAIN,media.currys.biz
 DOMAIN,media.daily.dev
+DOMAIN,media.datacamp.com
 DOMAIN,media.datacenterdynamics.com
 DOMAIN,media.e4le.me
 DOMAIN,media.fidoalliance.org
@@ -1929,7 +1932,11 @@ DOMAIN,ookla2.eaglecable.net
 DOMAIN,ookla2.mbspeed.net
 DOMAIN,ookla3.1und1-mobilfunk.de
 DOMAIN,ooklaserver.aryk.fr
+DOMAIN,ooklaserver.asbn.va.ogital.net
+DOMAIN,ooklaserver.atln.ga.ogital.net
+DOMAIN,ooklaserver.dlls.tx.ogital.net
 DOMAIN,ooklaserver1-del1.skymaxbroadband.com
+DOMAIN,ooklaspdtstsvr.zitel.com
 DOMAIN,ooklaspeed.statenet.in
 DOMAIN,ooklaspeed.ttron.eu
 DOMAIN,ooklaspeedtest-cdv.quebeccloud.com
@@ -2029,6 +2036,7 @@ DOMAIN,pro2-ui-assets-s3-fy.myportfolio.com
 DOMAIN,prod-images.rippling.com
 DOMAIN,prod.addictinggames.com
 DOMAIN,prodforza.blob.core.windows.net
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 DOMAIN,productionresultssa0.blob.core.windows.net
 DOMAIN,productionresultssa1.blob.core.windows.net
 DOMAIN,productionresultssa10.blob.core.windows.net
@@ -2053,13 +2061,13 @@ DOMAIN,proxy.beyondwords.io
 DOMAIN,proxy.csidetm.com
 DOMAIN,ptldme-speedtest-ookla-01.st.charter.com
 DOMAIN,public-assets.typeform.com
-DOMAIN,public-cdn.bblmw.com
 DOMAIN,public-frontend-cos.metadl.com
 DOMAIN,public-pages.cbinsights.com
 DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,public.hare200.com
 DOMAIN,public.komiic.com
 DOMAIN,public.mocortech.com
+DOMAIN,public.popclip.app
 DOMAIN,public.zoorix.com
 DOMAIN,purtel39.purtel.com
 DOMAIN,purtel70.purtel.com
@@ -2069,6 +2077,7 @@ DOMAIN,qld-speedtest.spirit.com.au
 DOMAIN,qoeookla-mimi-01.sys.comcast.net
 DOMAIN,qoeookla-ncst-01.sys.comcast.net
 DOMAIN,qoeookla-rmnd-01.sys.comcast.net
+DOMAIN,qoeookla-seat-01.sys.comcast.net
 DOMAIN,qspt.technofiber.net
 DOMAIN,qualcomm.sc.omtrdc.net
 DOMAIN,quriobot.com
@@ -2488,6 +2497,7 @@ DOMAIN,speed.haefeleconnect.com
 DOMAIN,speed.hamilton.net
 DOMAIN,speed.idnet.net.br
 DOMAIN,speed.inet-isp.com
+DOMAIN,speed.isrcomunicaciones.es
 DOMAIN,speed.jumpernet.com.br
 DOMAIN,speed.kansas.smishcraft.com
 DOMAIN,speed.ktk.de
@@ -2669,11 +2679,13 @@ DOMAIN,speedtest-baltimore.greenlightnetworks.com
 DOMAIN,speedtest-bassano.wifiweb.it
 DOMAIN,speedtest-bd-1.zoominternet.net
 DOMAIN,speedtest-bethlehem.greenlightnetworks.com
+DOMAIN,speedtest-bg.planetel.it
 DOMAIN,speedtest-binghamton.greenlightnetworks.com
 DOMAIN,speedtest-bla.optusnet.com.au
 DOMAIN,speedtest-blacktown.optusnet.com.au
 DOMAIN,speedtest-bne-dn1.empower.net.au
 DOMAIN,speedtest-bne.vocus.net
+DOMAIN,speedtest-bne0.encoo.com.au
 DOMAIN,speedtest-bom.melbicom.net
 DOMAIN,speedtest-bos.dish-wireless.com
 DOMAIN,speedtest-brendola.wifiweb.it
@@ -2699,6 +2711,7 @@ DOMAIN,speedtest-de.unihost.com
 DOMAIN,speedtest-de.webdade.com
 DOMAIN,speedtest-de1.expresshost.cloud
 DOMAIN,speedtest-dfw.dish-wireless.com
+DOMAIN,speedtest-din.rapidnet.co.in
 DOMAIN,speedtest-dsm.cowboyhosting.com
 DOMAIN,speedtest-east.eastlink.ca
 DOMAIN,speedtest-eastburwood.optusnet.com.au
@@ -2833,12 +2846,14 @@ DOMAIN,speedtest-ookla-par.as62000.net
 DOMAIN,speedtest-ookla-roc1.synoptek.com
 DOMAIN,speedtest-ottawa.hivedatacenter.com
 DOMAIN,speedtest-p1.interphone.com.au
+DOMAIN,speedtest-par.flowhardware.ch
 DOMAIN,speedtest-pd.flynet.it
 DOMAIN,speedtest-pd.wifiweb.it
 DOMAIN,speedtest-perth.launtel.net.au
 DOMAIN,speedtest-perth.macquarietelecom.com
 DOMAIN,speedtest-perth.optusnet.com.au
 DOMAIN,speedtest-phl.dish-wireless.com
+DOMAIN,speedtest-phoenix.resoundnetworks.com
 DOMAIN,speedtest-phx.dish-wireless.com
 DOMAIN,speedtest-pit.omnifiber.com
 DOMAIN,speedtest-pl.the.hosting
@@ -2980,6 +2995,7 @@ DOMAIN,speedtest.alastyr.com
 DOMAIN,speedtest.albatroznetwork.com.br
 DOMAIN,speedtest.alexf.cc
 DOMAIN,speedtest.almatelecom.es
+DOMAIN,speedtest.alpenhost.at
 DOMAIN,speedtest.altamahaemc.com
 DOMAIN,speedtest.altimatel.com
 DOMAIN,speedtest.alwyzon.net
@@ -3053,6 +3069,7 @@ DOMAIN,speedtest.belmontcountygig.com
 DOMAIN,speedtest.bemol.com.br
 DOMAIN,speedtest.berlin.jonasdevries.de
 DOMAIN,speedtest.beyondair.ca
+DOMAIN,speedtest.bgsi.io
 DOMAIN,speedtest.bigventuresmedia.com
 DOMAIN,speedtest.binet.com.tr
 DOMAIN,speedtest.bitel.io
@@ -3196,6 +3213,7 @@ DOMAIN,speedtest.dllstx97.metronetinc.com
 DOMAIN,speedtest.dme.fdcservers.net
 DOMAIN,speedtest.dolomitinet.it
 DOMAIN,speedtest.dongfong.com.tw
+DOMAIN,speedtest.dreamnetgigafiber.com
 DOMAIN,speedtest.drei.at
 DOMAIN,speedtest.drie-host.nl
 DOMAIN,speedtest.drw2.launtel.net.au
@@ -3247,6 +3265,7 @@ DOMAIN,speedtest.fastwebnetworks.in
 DOMAIN,speedtest.fbc-tele.com
 DOMAIN,speedtest.fc-fra4.as51202.net
 DOMAIN,speedtest.fehmer.tech
+DOMAIN,speedtest.fenixtelecom.net.br
 DOMAIN,speedtest.fhsu.edu
 DOMAIN,speedtest.fiber91.com
 DOMAIN,speedtest.fibercast.net
@@ -3402,6 +3421,7 @@ DOMAIN,speedtest.inovewifi.com.br
 DOMAIN,speedtest.instantsupport.co.in
 DOMAIN,speedtest.interligpro.com.br
 DOMAIN,speedtest.internet.one
+DOMAIN,speedtest.internetarribes.es
 DOMAIN,speedtest.internetbolaget.nu
 DOMAIN,speedtest.internetsubway.com
 DOMAIN,speedtest.intersaar.de
@@ -3698,6 +3718,7 @@ DOMAIN,speedtest.palmerone.com
 DOMAIN,speedtest.par1.adky.net
 DOMAIN,speedtest.par2.as216190.net
 DOMAIN,speedtest.parishbroadband.com
+DOMAIN,speedtest.paynetdigital.com
 DOMAIN,speedtest.pcibroadband.in
 DOMAIN,speedtest.peariverbroadband.com
 DOMAIN,speedtest.pemtelco.com
@@ -3901,6 +3922,7 @@ DOMAIN,speedtest.team-host.ru
 DOMAIN,speedtest.techminds.ca
 DOMAIN,speedtest.technobulut.com
 DOMAIN,speedtest.technofiber.co
+DOMAIN,speedtest.tefenet.com.br
 DOMAIN,speedtest.teknosos.com.tr
 DOMAIN,speedtest.telbo.net
 DOMAIN,speedtest.telecablecr.com
@@ -3990,6 +4012,7 @@ DOMAIN,speedtest.vanciscloud.nl
 DOMAIN,speedtest.vc.shawcable.net
 DOMAIN,speedtest.vdns.it
 DOMAIN,speedtest.vee.com.tw
+DOMAIN,speedtest.vel.as205941.net
 DOMAIN,speedtest.velocitybroadband.co.in
 DOMAIN,speedtest.velosonet.com.br
 DOMAIN,speedtest.verimek.com
@@ -4021,6 +4044,7 @@ DOMAIN,speedtest.war.fdcservers.net
 DOMAIN,speedtest.warsaw.valtrix.org
 DOMAIN,speedtest.waterloofiber.com
 DOMAIN,speedtest.waveruralconnect.com
+DOMAIN,speedtest.way2netbroadband.com
 DOMAIN,speedtest.wb1.loopinternet.com
 DOMAIN,speedtest.wccta.com
 DOMAIN,speedtest.webdiscount.net
@@ -4143,6 +4167,7 @@ DOMAIN,speedtest03.suddenlink.net
 DOMAIN,speedtest03.timewarp.at
 DOMAIN,speedtest04.ber.server.camp
 DOMAIN,speedtest0401.anexia-it.com
+DOMAIN,speedtest1-phnyazjv.as20055.net
 DOMAIN,speedtest1-qupra-ams-nl.ebgp.fi
 DOMAIN,speedtest1-sttlwawb.as20055.net
 DOMAIN,speedtest1.acentek.net
@@ -4249,6 +4274,7 @@ DOMAIN,speedtest2.dolomitesnetwork.it
 DOMAIN,speedtest2.dpdfsd.com
 DOMAIN,speedtest2.flowtrinidad.com
 DOMAIN,speedtest2.grm.net
+DOMAIN,speedtest2.honeybroadband.com
 DOMAIN,speedtest2.htcnetracer.com
 DOMAIN,speedtest2.hurontel.on.ca
 DOMAIN,speedtest2.il.mycci.net
@@ -4265,6 +4291,7 @@ DOMAIN,speedtest2.networks.bt.com
 DOMAIN,speedtest2.openfiber.it
 DOMAIN,speedtest2.pa.mycci.net
 DOMAIN,speedtest2.pacificinternet.com
+DOMAIN,speedtest2.par2.as216190.net
 DOMAIN,speedtest2.phx.1gservers.com
 DOMAIN,speedtest2.plusnet.com.tr
 DOMAIN,speedtest2.power-speed.at
@@ -4704,6 +4731,7 @@ DOMAIN,static.j51.net
 DOMAIN,static.javhd.com
 DOMAIN,static.jup.ag
 DOMAIN,static.k2s.cc
+DOMAIN,static.karousell.com
 DOMAIN,static.klaviyo.com
 DOMAIN,static.licdn.com
 DOMAIN,static.lwn.net
@@ -4994,6 +5022,7 @@ DOMAIN,telemetry.timescale.com
 DOMAIN,telemetry2.devolutions.net
 DOMAIN,tem11-speedtest01.as15108.com
 DOMAIN,test-mi.netoip.com
+DOMAIN,test-pbx.opiquad.it
 DOMAIN,test.accesso.net.br
 DOMAIN,test.beamtelecom.com.br
 DOMAIN,test.curionet.com.br
@@ -5211,6 +5240,7 @@ DOMAIN,velocidade.4wnet.com.br
 DOMAIN,velocidade.amazoniatelecom.com.br
 DOMAIN,velocidade.conectato.com.br
 DOMAIN,velocidade.csrnetwork.com.br
+DOMAIN,velocidade.danieltechpro.com
 DOMAIN,velocidade.exytelecom.com.br
 DOMAIN,velocidade.gcnetprovedor.com.br
 DOMAIN,velocidade.giga7telecom.com.br
@@ -5239,6 +5269,7 @@ DOMAIN,velocidade.softtelecom.net.br
 DOMAIN,velocidade.tecsattelecom.com.br
 DOMAIN,velocidade.tecsattelecom.net.br
 DOMAIN,velocidade.tntelecomfortaleza.com.br
+DOMAIN,velocidade.tpnt.com.br
 DOMAIN,velocidade.webzoomtelecom.com.br
 DOMAIN,velocidadestm.amazonett.com.br
 DOMAIN,velocimetro-fla.virtua.com.br
@@ -12449,7 +12480,6 @@ DOMAIN-SUFFIX,blog.sessionstack.com
 DOMAIN-SUFFIX,blog.shuziyimin.org
 DOMAIN-SUFFIX,blog.sogoo.org
 DOMAIN-SUFFIX,blog.soylent.com
-DOMAIN-SUFFIX,blog.syx86.cn
 DOMAIN-SUFFIX,blog.tiney.com
 DOMAIN-SUFFIX,blog.tsunanet.net
 DOMAIN-SUFFIX,blog.twimbow.com
@@ -13829,7 +13859,6 @@ DOMAIN-SUFFIX,c8082.com
 DOMAIN-SUFFIX,c88588.com
 DOMAIN-SUFFIX,c88788.com
 DOMAIN-SUFFIX,c9998.com
-DOMAIN-SUFFIX,ca
 DOMAIN-SUFFIX,ca.ign.com
 DOMAIN-SUFFIX,ca.martian.tk
 DOMAIN-SUFFIX,ca.newfreevpn.com
@@ -14691,7 +14720,6 @@ DOMAIN-SUFFIX,chakuwiki.org
 DOMAIN-SUFFIX,chalaoshi.de
 DOMAIN-SUFFIX,challenger.it
 DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,chalungu.cn
 DOMAIN-SUFFIX,championshipseriesleague.com
 DOMAIN-SUFFIX,chanakyaforum.com
 DOMAIN-SUFFIX,chancenter.org
@@ -15693,7 +15721,6 @@ DOMAIN-SUFFIX,cneccc.edu.hk
 DOMAIN-SUFFIX,cneisa.xyz
 DOMAIN-SUFFIX,cnepub.com
 DOMAIN-SUFFIX,cnet.com
-DOMAIN-SUFFIX,cnex.org.cn
 DOMAIN-SUFFIX,cnfilms.net
 DOMAIN-SUFFIX,cnfree.com
 DOMAIN-SUFFIX,cnfuyin.tv
@@ -16625,6 +16652,7 @@ DOMAIN-SUFFIX,cyc.org.tw
 DOMAIN-SUFFIX,cycschool.edu.hk
 DOMAIN-SUFFIX,cydia.ifuckgfw.com
 DOMAIN-SUFFIX,cyfrowypolsat.pl
+DOMAIN-SUFFIX,cygames.com
 DOMAIN-SUFFIX,cygwin.com
 DOMAIN-SUFFIX,cyh.org.tw
 DOMAIN-SUFFIX,cylink.pro
@@ -19589,7 +19617,6 @@ DOMAIN-SUFFIX,edmontonservice.com
 DOMAIN-SUFFIX,edninfo.com
 DOMAIN-SUFFIX,ednovas.org
 DOMAIN-SUFFIX,edns.biz
-DOMAIN-SUFFIX,edns.ip-api.com
 DOMAIN-SUFFIX,edom.com.tw
 DOMAIN-SUFFIX,edominations.com
 DOMAIN-SUFFIX,edomtech.com
@@ -20264,7 +20291,6 @@ DOMAIN-SUFFIX,ettvamerica.com
 DOMAIN-SUFFIX,ettvcentral.com
 DOMAIN-SUFFIX,etviet.com
 DOMAIN-SUFFIX,etwealth.com
-DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,eu-consumer-empowerment.com
 DOMAIN-SUFFIX,eu.orbitor.dev
 DOMAIN-SUFFIX,eu.org
@@ -24499,6 +24525,7 @@ DOMAIN-SUFFIX,gotcosmos.com
 DOMAIN-SUFFIX,gotdns.ch
 DOMAIN-SUFFIX,gotgayporn.com
 DOMAIN-SUFFIX,gotgeeks.com
+DOMAIN-SUFFIX,gotinder.com
 DOMAIN-SUFFIX,gotomeeting.es
 DOMAIN-SUFFIX,gotovim-doma.ru
 DOMAIN-SUFFIX,gotowebinar.com
@@ -24560,6 +24587,7 @@ DOMAIN-SUFFIX,gradconnection.com
 DOMAIN-SUFFIX,gradescope.com
 DOMAIN-SUFFIX,gradeuptube.com
 DOMAIN-SUFFIX,grafana.com
+DOMAIN-SUFFIX,grafana.net
 DOMAIN-SUFFIX,graficosedusans.cl
 DOMAIN-SUFFIX,grafolio.com
 DOMAIN-SUFFIX,grahamreaper.com
@@ -24669,6 +24697,7 @@ DOMAIN-SUFFIX,grjsq.me
 DOMAIN-SUFFIX,grjsq.tv
 DOMAIN-SUFFIX,grogol.us
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokbot.com
 DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,grooby.com
 DOMAIN-SUFFIX,groobyvr.com
@@ -24716,7 +24745,6 @@ DOMAIN-SUFFIX,gspace.com
 DOMAIN-SUFFIX,gspe19-cn.ls-apple.com.akadns.net
 DOMAIN-SUFFIX,gsrc.io
 DOMAIN-SUFFIX,gstatic-cn.com
-DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gsuite.com
 DOMAIN-SUFFIX,gsungrab.net
@@ -25921,7 +25949,6 @@ DOMAIN-SUFFIX,hjholdings.jp
 DOMAIN-SUFFIX,hjpda7.com
 DOMAIN-SUFFIX,hjtepcg.629659.xyz
 DOMAIN-SUFFIX,hjvpn.com
-DOMAIN-SUFFIX,hk
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 DOMAIN-SUFFIX,hk-magazine.com
 DOMAIN-SUFFIX,hk-pic.net
@@ -28152,6 +28179,7 @@ DOMAIN-SUFFIX,iot.korea.ac.kr
 DOMAIN-SUFFIX,iotinactionevents.com
 DOMAIN-SUFFIX,iownyour.biz
 DOMAIN-SUFFIX,iownyour.org
+DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip-ceua.es
 DOMAIN-SUFFIX,ip-scan.adspower.net
 DOMAIN-SUFFIX,ip-v6.eu
@@ -29495,7 +29523,6 @@ DOMAIN-SUFFIX,joymiihub.com
 DOMAIN-SUFFIX,joyourself.com
 DOMAIN-SUFFIX,joys999.com
 DOMAIN-SUFFIX,joysporn.com
-DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,jp-1.phicloud.shop
 DOMAIN-SUFFIX,jp-ex.io
 DOMAIN-SUFFIX,jp-kix.doh.sb
@@ -30325,7 +30352,6 @@ DOMAIN-SUFFIX,kporno.com
 DOMAIN-SUFFIX,kpptoto.info
 DOMAIN-SUFFIX,kproxy.site
 DOMAIN-SUFFIX,kqes.net
-DOMAIN-SUFFIX,kr
 DOMAIN-SUFFIX,kr-sel.doh.sb
 DOMAIN-SUFFIX,kraftonde.com
 DOMAIN-SUFFIX,kraken.com
@@ -31143,6 +31169,9 @@ DOMAIN-SUFFIX,lilly.com
 DOMAIN-SUFFIX,lilo.org
 DOMAIN-SUFFIX,lim.gotgeeks.com
 DOMAIN-SUFFIX,limbopro.xyz
+DOMAIN-SUFFIX,limbuscompany.global
+DOMAIN-SUFFIX,limbuscompanyapi.com
+DOMAIN-SUFFIX,limbuscompanycdn.org
 DOMAIN-SUFFIX,limedia.tw
 DOMAIN-SUFFIX,limelight.com
 DOMAIN-SUFFIX,limelight.moe
@@ -33693,7 +33722,6 @@ DOMAIN-SUFFIX,moefuns.org
 DOMAIN-SUFFIX,moefuns.vip
 DOMAIN-SUFFIX,moefuns1.com
 DOMAIN-SUFFIX,moefuns1.work
-DOMAIN-SUFFIX,moegirl.org
 DOMAIN-SUFFIX,moegirl.xyz
 DOMAIN-SUFFIX,moeimg.net
 DOMAIN-SUFFIX,moeli-desu.com
@@ -36913,7 +36941,6 @@ DOMAIN-SUFFIX,openweathermap.org
 DOMAIN-SUFFIX,openweave.io
 DOMAIN-SUFFIX,openwebster.com
 DOMAIN-SUFFIX,openwrt.org
-DOMAIN-SUFFIX,openwrt.org.cn
 DOMAIN-SUFFIX,openxla.org
 DOMAIN-SUFFIX,opera.com
 DOMAIN-SUFFIX,operacdn.com
@@ -39574,6 +39601,7 @@ DOMAIN-SUFFIX,queensland.com
 DOMAIN-SUFFIX,queensnake.com
 DOMAIN-SUFFIX,queer.cat
 DOMAIN-SUFFIX,queerpixels.com
+DOMAIN-SUFFIX,questionablequesting.com
 DOMAIN-SUFFIX,questvisual.com
 DOMAIN-SUFFIX,quetzalcoatl-relays.org
 DOMAIN-SUFFIX,queye.co
@@ -40279,6 +40307,7 @@ DOMAIN-SUFFIX,remi.flamary.com
 DOMAIN-SUFFIX,reminderfox.org
 DOMAIN-SUFFIX,remington.com
 DOMAIN-SUFFIX,remirepo.net
+DOMAIN-SUFFIX,remna.dev
 DOMAIN-SUFFIX,remocontro.it
 DOMAIN-SUFFIX,remot3.it
 DOMAIN-SUFFIX,remote.utorrent.com
@@ -42133,7 +42162,6 @@ DOMAIN-SUFFIX,sfvpn.com
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,sfxslibrary.club
 DOMAIN-SUFFIX,sfxslibrary.org
-DOMAIN-SUFFIX,sg
 DOMAIN-SUFFIX,sg-sin.doh.sb
 DOMAIN-SUFFIX,sg.convcloud.xyz
 DOMAIN-SUFFIX,sg.news.yahoo.com
@@ -42773,8 +42801,8 @@ DOMAIN-SUFFIX,skin119.com.tw
 DOMAIN-SUFFIX,skincancerflorida.com
 DOMAIN-SUFFIX,skinnyglam.com
 DOMAIN-SUFFIX,skinstrip.net
+DOMAIN-SUFFIX,skinswap.com
 DOMAIN-SUFFIX,skiyourhighness.com
-DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,skn.noip.me
 DOMAIN-SUFFIX,skoda.de
 DOMAIN-SUFFIX,skokka.com
@@ -43333,6 +43361,7 @@ DOMAIN-SUFFIX,soytwitter.com
 DOMAIN-SUFFIX,sp-pedia.com
 DOMAIN-SUFFIX,sp.cool
 DOMAIN-SUFFIX,space9link.com
+DOMAIN-SUFFIX,spacebattles.com
 DOMAIN-SUFFIX,spaceboop.com
 DOMAIN-SUFFIX,spacedesk.net
 DOMAIN-SUFFIX,spaceexplored.com
@@ -45639,7 +45668,6 @@ DOMAIN-SUFFIX,tianya.at
 DOMAIN-SUFFIX,tianya.im
 DOMAIN-SUFFIX,tianyabook.com
 DOMAIN-SUFFIX,tianyabooks.com
-DOMAIN-SUFFIX,tianyantong.org.cn
 DOMAIN-SUFFIX,tianyim.com
 DOMAIN-SUFFIX,tianyinmusic.com
 DOMAIN-SUFFIX,tianzhu.org
@@ -45865,6 +45893,7 @@ DOMAIN-SUFFIX,timsah.com
 DOMAIN-SUFFIX,timtales.com
 DOMAIN-SUFFIX,tinc-vpn.org
 DOMAIN-SUFFIX,tinder.com
+DOMAIN-SUFFIX,tindersparks.com
 DOMAIN-SUFFIX,tindie.com
 DOMAIN-SUFFIX,tindiemedia.com
 DOMAIN-SUFFIX,tiney.com
@@ -46859,7 +46888,6 @@ DOMAIN-SUFFIX,tvrain.tv
 DOMAIN-SUFFIX,tvshowme.net
 DOMAIN-SUFFIX,tvunetworks.com
 DOMAIN-SUFFIX,tvyoutube.com
-DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,tw-blog.com
 DOMAIN-SUFFIX,tw-npo.org
 DOMAIN-SUFFIX,tw.answers.yahoo.com
@@ -47270,7 +47298,6 @@ DOMAIN-SUFFIX,uisp.com
 DOMAIN-SUFFIX,ujapanesesex.com
 DOMAIN-SUFFIX,ujizz.xxx
 DOMAIN-SUFFIX,ujizzcn.com
-DOMAIN-SUFFIX,uk
 DOMAIN-SUFFIX,uk-exhibitionist.com
 DOMAIN-SUFFIX,uk-m-wikipedia-org.translate.goog
 DOMAIN-SUFFIX,uk-proxy.co.uk
@@ -47565,7 +47592,6 @@ DOMAIN-SUFFIX,urll.cc
 DOMAIN-SUFFIX,urlparser.com
 DOMAIN-SUFFIX,urlscan.io
 DOMAIN-SUFFIX,urukawa.com
-DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,us-1.phicloud.shop
 DOMAIN-SUFFIX,us-1.phihub.shop
 DOMAIN-SUFFIX,us-189-255-4.fri-gate.biz
@@ -48623,7 +48649,6 @@ DOMAIN-SUFFIX,vodafone.com
 DOMAIN-SUFFIX,vodafone.com.tr
 DOMAIN-SUFFIX,vodafone.ie
 DOMAIN-SUFFIX,vodafone.it
-DOMAIN-SUFFIX,vodafoneziggo.nl
 DOMAIN-SUFFIX,voding.herokuapp.com
 DOMAIN-SUFFIX,vodospad.net.ua
 DOMAIN-SUFFIX,voflix.com
@@ -49633,7 +49658,6 @@ DOMAIN-SUFFIX,whatthefox.com
 DOMAIN-SUFFIX,whbl.com
 DOMAIN-SUFFIX,wheatseeds.org
 DOMAIN-SUFFIX,whec.com
-DOMAIN-SUFFIX,wheel-size.cn
 DOMAIN-SUFFIX,wheelbarrow.com
 DOMAIN-SUFFIX,wheelockslatin.com
 DOMAIN-SUFFIX,wheelpop.com
@@ -52565,7 +52589,6 @@ DOMAIN-SUFFIX,zhshi.win
 DOMAIN-SUFFIX,zhtv01.com
 DOMAIN-SUFFIX,zhuafan.live
 DOMAIN-SUFFIX,zhuangbi.me
-DOMAIN-SUFFIX,zhuanxing.cn
 DOMAIN-SUFFIX,zhuatieba.com
 DOMAIN-SUFFIX,zhuatube.com
 DOMAIN-SUFFIX,zhufn.fun
@@ -52589,7 +52612,6 @@ DOMAIN-SUFFIX,ziddu.com
 DOMAIN-SUFFIX,zifaner.com
 DOMAIN-SUFFIX,zifanr.net
 DOMAIN-SUFFIX,ziffstatic.com
-DOMAIN-SUFFIX,ziggo.nl
 DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,zijieyunti.com
 DOMAIN-SUFFIX,zillionk.com
